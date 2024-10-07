@@ -31,7 +31,7 @@ else:
     firstNum = num // HUNDRED
     secondNum = num // TEN % TEN
     thirdNum = num % TEN
-    mirror(thirdNum * HUNDRED + secondNum * TEN + firstNum)
+    mirror = (thirdNum * HUNDRED + secondNum * TEN + firstNum)
     res = f"Число {num} - трехзначное. Его зеркальное отображение = {mirror}"
 
 print(res)
