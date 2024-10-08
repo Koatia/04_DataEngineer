@@ -26,19 +26,22 @@ RICHNESS_TAX = decimal.Decimal(0.1)
 WITHDRAW_PERCENTAGE = decimal.Decimal(0.015)
 ADD_PERCENTAGE = decimal.Decimal(0.03)
 MULTIPLIERS = 50
-MIN_REMOVAL = 30
-MAX_REMOVAL = 600
+MIN_REMOVAL = decimal.Decimal(30)
+MAX_REMOVAL = decimal.Decimal(600)
 COUTER_OPER = 3
 
 account = decimal.Decimal(0)
 count: int = 0
+list_operations: [decimal.Decimal] = []
 
-def richness_pay(balance: decimal.Decimal) -> decimal.Decimal:
+def richness_pay(balance: decimal.Decimal, lst: [decimal.Decimal]) -> decimal.Decimal:
     """Функция расчета и удержания налога на богатство"""
     if balance > RICHNESS_SUM:
         sum_operation = balance * RICHNESS_TAX
         balance -= sum_operation
-        print(f'С вас удержали налог на богатство {sum_operation} у.е.! Баланс {balance:.2f} у.е.')
+        lst.append(-sum_operation)
+        print(f'С вас удержали налог на богатство {sum_operation:.2f} у.е.! '
+              f'Баланс {balance:.2f} у.е.')
     return balance
 
 def input_sum_operation() -> decimal.Decimal:
@@ -49,15 +52,18 @@ def input_sum_operation() -> decimal.Decimal:
             input(f"Введите сумму операции, кратную {MULTIPLIERS} у.е.: "))
     return sum_operation
 
-def put_deposit(balance: decimal.Decimal, enum: int) -> [decimal.Decimal, int]:
+def put_deposit(balance: decimal.Decimal, enum: int, lst: [decimal.Decimal]) \
+        -> [decimal.Decimal, int]:
     """Функция пополнения счета"""
     sum_operation = input_sum_operation()
     balance += sum_operation
+    lst.append(sum_operation)
     enum += 1
     print(f"Пополнение карты на {sum_operation:.2f} у.е. Баланс счета {balance:.2f} у.е.")
     return balance, enum
 
-def get_deposit(balance: decimal.Decimal, enum: int) -> [decimal.Decimal, int]:
+def get_deposit(balance: decimal.Decimal, enum: int, lst: [decimal.Decimal]) \
+        -> [decimal.Decimal, int]:
     """Функция снятия наличных со счета"""
     sum_operation = input_sum_operation()
     withdraw_amount = sum_operation * WITHDRAW_PERCENTAGE
@@ -73,19 +79,22 @@ def get_deposit(balance: decimal.Decimal, enum: int) -> [decimal.Decimal, int]:
             f"и {withdraw_amount:.2f} у.е. платы за операцию")
         print(f"Баланс счета {balance:.2f} у.е.")
     else:
-        balance -= withdraw_amount
         balance -= sum_operation
+        balance -= withdraw_amount
+        lst.append(-sum_operation).append(-withdraw_amount)
         enum += 1
         print(f"Выдано {sum_operation:.2f} у.е. "
               f"Удержана плата за операцию {withdraw_amount:.2f} у.е.\n"
               f"Баланс счета {account:.2f} у.е.")
     return account, enum
 
-def method_add_percentage(balance: decimal.Decimal, enum: int) -> [decimal.Decimal, int]:
+def method_add_percentage(balance: decimal.Decimal, enum: int, lst: [decimal.Decimal]) \
+        -> [decimal.Decimal, int]:
     """Метод начисления процентов за операции"""
     if enum == COUTER_OPER:
         sum_operation = balance * ADD_PERCENTAGE
         balance += sum_operation
+        lst.append(sum_operation)
         enum = 0
         print(f'Вам начислено {sum_operation:.2f} у.е. за совершенные операции!'
               f' Баланс счета {balance:.2f} у.е.')
@@ -94,15 +103,15 @@ def method_add_percentage(balance: decimal.Decimal, enum: int) -> [decimal.Decim
 while True:
     command = input(f"Выберите операцию (Пополнить: {CMD_DEPOSIT},"
                     f" Снять: {CMD_WITHDRAW}, Выйти: {CMD_EXIT}): ")
-    account = richness_pay(account)
+    account = richness_pay(account, list_operations)
 
     if command == CMD_EXIT:
         print(f"Возьмите карту, на которой {account:.2f} у.е.")
         break
 
     if command == CMD_DEPOSIT:
-        account, count = put_deposit(account, count)
+        account, count = put_deposit(account, count, list_operations)
     elif command == CMD_WITHDRAW:
-        account, count = get_deposit(account, count)
+        account, count = get_deposit(account, count, list_operations)
 
-    account, count = method_add_percentage(account, count)
+    account, count = method_add_percentage(account, count, list_operations)
