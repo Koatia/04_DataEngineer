@@ -4,6 +4,17 @@ Task 3.
 Возьмите задачу о банкомате из семинара 2.
 Разбейте её на отдельные операции — функции.
 Дополнительно сохраняйте все операции поступления и снятия средств в список.
+
+Напишите программу банкомат.
+✔ Начальная сумма равна нулю
+✔ Допустимые действия: пополнить, снять, выйти
+✔ Сумма пополнения и снятия кратны 50 у.е.
+✔ Процент за снятие — 1.5% от суммы снятия, но не менее 30 и не более 600 у.е.
+✔ После каждой третей операции пополнения или снятия начисляются проценты - 3%
+✔ Нельзя снять больше, чем на счёте
+✔ При превышении суммы в 5 млн, вычитать налог на богатство 10%
+   перед каждой операцией, даже ошибочной
+✔ Любое действие выводит сумму денег
 """
 import decimal
 
@@ -20,45 +31,78 @@ MAX_REMOVAL = 600
 COUTER_OPER = 3
 
 account = decimal.Decimal(0)
-count = 0
+count: int = 0
+
+def richness_pay(balance: decimal.Decimal) -> decimal.Decimal:
+    """Функция расчета и удержания налога на богатство"""
+    if balance > RICHNESS_SUM:
+        sum_operation = balance * RICHNESS_TAX
+        balance -= sum_operation
+        print(f'С вас удержали налог на богатство {sum_operation} у.е.! Баланс {balance:.2f} у.е.')
+    return balance
+
+def input_sum_operation() -> decimal.Decimal:
+    """Функция ввода суммы операции"""
+    sum_operation = decimal.Decimal(1)
+    while sum_operation % MULTIPLIERS != 0 and sum_operation >= 0:
+        sum_operation = decimal.Decimal(
+            input(f"Введите сумму операции, кратную {MULTIPLIERS} у.е.: "))
+    return sum_operation
+
+def put_deposit(balance: decimal.Decimal, enum: int) -> [decimal.Decimal, int]:
+    """Функция пополнения счета"""
+    sum_operation = input_sum_operation()
+    balance += sum_operation
+    enum += 1
+    print(f"Пополнение карты на {sum_operation:.2f} у.е. Баланс счета {balance:.2f} у.е.")
+    return balance, enum
+
+def get_deposit(balance: decimal.Decimal, enum: int) -> [decimal.Decimal, int]:
+    """Функция снятия наличных со счета"""
+    sum_operation = input_sum_operation()
+    withdraw_amount = sum_operation * WITHDRAW_PERCENTAGE
+
+    if withdraw_amount > MAX_REMOVAL:
+        withdraw_amount = MAX_REMOVAL
+    elif withdraw_amount < MIN_REMOVAL:
+        withdraw_amount = MIN_REMOVAL
+
+    if withdraw_amount + sum_operation >= balance:
+        print(
+            f"Недостаточно средств для снятия {sum_operation:.2f} у.е. "
+            f"и {withdraw_amount:.2f} у.е. платы за операцию")
+        print(f"Баланс счета {balance:.2f} у.е.")
+    else:
+        balance -= withdraw_amount
+        balance -= sum_operation
+        enum += 1
+        print(f"Выдано {sum_operation:.2f} у.е. "
+              f"Удержана плата за операцию {withdraw_amount:.2f} у.е.\n"
+              f"Баланс счета {account:.2f} у.е.")
+    return account, enum
+
+def method_add_percentage(balance: decimal.Decimal, enum: int) -> [decimal.Decimal, int]:
+    """Метод начисления процентов за операции"""
+    if enum == COUTER_OPER:
+        sum_operation = balance * ADD_PERCENTAGE
+        balance += sum_operation
+        enum = 0
+        print(f'Вам начислено {sum_operation:.2f} у.е. за совершенные операции!'
+              f' Баланс счета {balance:.2f} у.е.')
+    return balance, enum
 
 while True:
-    command = input(f"Пополнить: {CMD_DEPOSIT}, Снять: {CMD_WITHDRAW}, Выйти: {CMD_EXIT}   ")
-
-    if account > RICHNESS_SUM:
-        account -= account * RICHNESS_TAX
-        print(f'С вас сняли налог на богатство! Баланс {account:.2f} у.е.')
+    command = input(f"Выберите операцию (Пополнить: {CMD_DEPOSIT},"
+                    f" Снять: {CMD_WITHDRAW}, Выйти: {CMD_EXIT}): ")
+    account = richness_pay(account)
 
     if command == CMD_EXIT:
         print(f"Возьмите карту, на которой {account:.2f} у.е.")
         break
 
-    if command in (CMD_DEPOSIT, CMD_WITHDRAW):
-        ammount = 1
-        while ammount % MULTIPLIERS != 0:
-            ammount = int(input(f"Введите сумму операции, кратную {MULTIPLIERS}: "))
-
     if command == CMD_DEPOSIT:
-        account += ammount
-        count += 1
-        print(f"Пополнение карты на {ammount:.2f} у.е. Баланс {account:.2f} у.е.")
-
+        account, count = put_deposit(account, count)
     elif command == CMD_WITHDRAW:
-        withdraw_ammount = ammount * WITHDRAW_PERCENTAGE
-        if withdraw_ammount > MAX_REMOVAL:
-            withdraw_ammount = MAX_REMOVAL
-        elif withdraw_ammount < MIN_REMOVAL:
-            withdraw_ammount = MIN_REMOVAL
+        account, count = get_deposit(account, count)
 
-        if withdraw_ammount + ammount >= account:
-            print(f"Недостаточно средств для снятия {ammount:.2f} у.е. Баланс {account:.2f} у.е.")
-        else:
-            account -= withdraw_ammount
-            account -= ammount
-            count += 1
-            print(f"Выдано {ammount:.2f} у.е. Баланс {account:.2f} у.е.")
-
-    if count == COUTER_OPER:
-        account += account * ADD_PERCENTAGE
-        print(f'Вам начислен процент за операции! Баланс {account:.2f} у.е.')
-        count = 0
+    account, count = method_add_percentage(account, count)
