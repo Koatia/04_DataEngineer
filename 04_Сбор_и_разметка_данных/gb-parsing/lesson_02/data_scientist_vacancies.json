@@ -1,0 +1,3212 @@
+[
+    {
+        "source": "hh.ru",
+        "title": "ML Разработчик / Data scientist",
+        "link": "https://hh.ru/vacancy/37422856?query=Data%20scientist",
+        "employer": "ТУТ БАЙ МЕДИА",
+        "city": "Минск",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Software Engineer",
+        "link": "https://hh.ru/vacancy/37424320?query=Data%20scientist",
+        "employer": "ООО IHS Global",
+        "city": "Минск",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist",
+        "link": "https://hh.ru/vacancy/37054908?query=Data%20scientist",
+        "employer": "ООО Варити",
+        "city": "Москва",
+        "salary_min": 130000,
+        "salary_max": null,
+        "salary_currency": "руб."
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist",
+        "link": "https://hh.ru/vacancy/37003152?query=Data%20scientist",
+        "employer": "ООО Цифровое проектирование",
+        "city": "Санкт-Петербург",
+        "salary_min": 110000,
+        "salary_max": null,
+        "salary_currency": "руб."
+    },
+    {
+        "source": "hh.ru",
+        "title": "Senior Data Scientist",
+        "link": "https://hh.ru/vacancy/37294434?query=Data%20scientist",
+        "employer": "Gradient",
+        "city": "Москва",
+        "salary_min": 300000,
+        "salary_max": null,
+        "salary_currency": "руб."
+    },
+    {
+        "source": "hh.ru",
+        "title": "Junior Data Scientist",
+        "link": "https://hh.ru/vacancy/37454715?query=Data%20scientist",
+        "employer": "EPAM Systems, Inc.",
+        "city": "Минск",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data scientist",
+        "link": "https://hh.ru/vacancy/36877389?query=Data%20scientist",
+        "employer": "Билайн",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data scientist",
+        "link": "https://hh.ru/vacancy/37329687?query=Data%20scientist",
+        "employer": "SUNLIGHT",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": 150000,
+        "salary_currency": "руб."
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist",
+        "link": "https://hh.ru/vacancy/37373426?query=Data%20scientist",
+        "employer": "Медia Партнерство Баінг",
+        "city": "Киев",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Middle/Senior data scientist (fraud prevention)",
+        "link": "https://hh.ru/vacancy/36991107?query=Data%20scientist",
+        "employer": "ООО КИБЕРТОНИКА",
+        "city": "Москва",
+        "salary_min": 140000,
+        "salary_max": 220000,
+        "salary_currency": "руб."
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data scientist",
+        "link": "https://hh.ru/vacancy/37416597?query=Data%20scientist",
+        "employer": "АДВ",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist",
+        "link": "https://hh.ru/vacancy/37332190?query=Data%20scientist",
+        "employer": "ООО Изибрэйн",
+        "city": "Минск",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist",
+        "link": "https://hh.ru/vacancy/36667663?query=Data%20scientist",
+        "employer": "Центр финансовых технологий",
+        "city": "Томск",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist (Limassol)",
+        "link": "https://hh.ru/vacancy/37362533?query=Data%20scientist",
+        "employer": "Easybrain",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Аналитик - эконометрист / Data scientist (Junior/Middle)",
+        "link": "https://hh.ru/vacancy/37172711?query=Data%20scientist",
+        "employer": "ООО БСТ Менеджмент-Консалтинг",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist",
+        "link": "https://hh.ru/vacancy/37200010?query=Data%20scientist",
+        "employer": "Angara Technologies Group",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data scientist",
+        "link": "https://hh.ru/vacancy/37125498?query=Data%20scientist",
+        "employer": "Сибур",
+        "city": "Нижний Новгород",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist",
+        "link": "https://hh.ru/vacancy/36023475?query=Data%20scientist",
+        "employer": "Plarium",
+        "city": "Краснодар",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Senior data scientist",
+        "link": "https://hh.ru/vacancy/37371627?query=Data%20scientist",
+        "employer": "Билайн",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist",
+        "link": "https://hh.ru/vacancy/37454742?query=Data%20scientist",
+        "employer": "EPAM Systems, Inc.",
+        "city": "Минск",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Senior data scientist (руководитель группы anti-fraud)",
+        "link": "https://hh.ru/vacancy/37008731?query=Data%20scientist",
+        "employer": "inDriver",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist",
+        "link": "https://hh.ru/vacancy/37037611?query=Data%20scientist",
+        "employer": "ООО Агентство судебного взыскания",
+        "city": "Санкт-Петербург",
+        "salary_min": 100000,
+        "salary_max": null,
+        "salary_currency": "руб."
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist",
+        "link": "https://hh.ru/vacancy/36997030?query=Data%20scientist",
+        "employer": "Prequel",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist (CLTV)",
+        "link": "https://hh.ru/vacancy/37402939?query=Data%20scientist",
+        "employer": "Сбербанк для экспертов",
+        "city": "Санкт-Петербург",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist",
+        "link": "https://hh.ru/vacancy/37092576?query=Data%20scientist",
+        "employer": "ООО Компания ТрэйдСофт",
+        "city": "Киров (Кировская область)",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist",
+        "link": "https://hh.ru/vacancy/36997016?query=Data%20scientist",
+        "employer": "Prequel",
+        "city": "Калининград",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Специалист Computer Vision (Data Scientist)",
+        "link": "https://hh.ru/vacancy/37008803?query=Data%20scientist",
+        "employer": "ООО Медицинские Скрининг Системы",
+        "city": "Санкт-Петербург",
+        "salary_min": 120000,
+        "salary_max": 220000,
+        "salary_currency": "руб."
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist",
+        "link": "https://hh.ru/vacancy/37293830?query=Data%20scientist",
+        "employer": "Click",
+        "city": "Санкт-Петербург",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Бизнес-аналитик",
+        "link": "https://hh.ru/vacancy/37375324?query=Data%20scientist",
+        "employer": "ООО Цифроматика",
+        "city": "Москва",
+        "salary_min": 120000,
+        "salary_max": 180000,
+        "salary_currency": "руб."
+    },
+    {
+        "source": "hh.ru",
+        "title": "Middle Data Scientist",
+        "link": "https://hh.ru/vacancy/37343732?query=Data%20scientist",
+        "employer": "АШАН Ритейл Россия",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data scientist",
+        "link": "https://hh.ru/vacancy/37292440?query=Data%20scientist",
+        "employer": "ООО ИК СИБИНТЕК",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist",
+        "link": "https://hh.ru/vacancy/36160619?query=Data%20scientist",
+        "employer": "АО ДОМ.РФ",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist",
+        "link": "https://hh.ru/vacancy/37045181?query=Data%20scientist",
+        "employer": "ООО WhyHappen",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Python-разработчик (Middle Python Developer)",
+        "link": "https://hh.ru/vacancy/36887804?query=Data%20scientist",
+        "employer": "ООО РАБЛЗ",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": 230000,
+        "salary_currency": "руб."
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist",
+        "link": "https://hh.ru/vacancy/37312880?query=Data%20scientist",
+        "employer": "Сбербанк для экспертов",
+        "city": "Санкт-Петербург",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist",
+        "link": "https://hh.ru/vacancy/37369353?query=Data%20scientist",
+        "employer": "ЦРТ | Группа компаний",
+        "city": "Санкт-Петербург",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data scientist",
+        "link": "https://hh.ru/vacancy/37125488?query=Data%20scientist",
+        "employer": "Сибур",
+        "city": "Томск",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Junior Data Scientist",
+        "link": "https://hh.ru/vacancy/37176634?query=Data%20scientist",
+        "employer": "Самокат (ООО Умное пространство)",
+        "city": "Санкт-Петербург",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Senior Big Data инженер (Machine Learning)",
+        "link": "https://hh.ru/vacancy/36426507?query=Data%20scientist",
+        "employer": "Лента, федеральная розничная сеть, IT",
+        "city": "Санкт-Петербург",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Тестировщик",
+        "link": "https://hh.ru/vacancy/37374380?query=Data%20scientist",
+        "employer": "Билайн",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data scientist",
+        "link": "https://hh.ru/vacancy/37247506?query=Data%20scientist",
+        "employer": "QIWI",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Middle/Senior Data Scientist",
+        "link": "https://hh.ru/vacancy/37188013?query=Data%20scientist",
+        "employer": "Экспобанк",
+        "city": "Новосибирск",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data scientist",
+        "link": "https://hh.ru/vacancy/37072712?query=Data%20scientist",
+        "employer": "ООО Корпорация Медицинские электронные данные",
+        "city": "Москва",
+        "salary_min": 150000,
+        "salary_max": null,
+        "salary_currency": "руб."
+    },
+    {
+        "source": "hh.ru",
+        "title": "Quantitative Researcher (Deep Research)",
+        "link": "https://hh.ru/vacancy/37374211?query=Data%20scientist",
+        "employer": "WorldQuant",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist",
+        "link": "https://hh.ru/vacancy/36357367?query=Data%20scientist",
+        "employer": "Сибур",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist",
+        "link": "https://hh.ru/vacancy/36519811?query=Data%20scientist",
+        "employer": "Авито",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist",
+        "link": "https://hh.ru/vacancy/37010627?query=Data%20scientist",
+        "employer": "Северсталь. Управляющая компания",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist",
+        "link": "https://hh.ru/vacancy/36452970?query=Data%20scientist",
+        "employer": "ООО Лидгид",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist",
+        "link": "https://hh.ru/vacancy/37098290?query=Data%20scientist",
+        "employer": "Сбербанк для экспертов",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist",
+        "link": "https://hh.ru/vacancy/36783102?query=Data%20scientist",
+        "employer": "WILDBERRIES",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Senior Data Scientist",
+        "link": "https://hh.ru/vacancy/36912049?query=Data%20scientist",
+        "employer": "РЕСО-Гарантия, СПАО",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist",
+        "link": "https://hh.ru/vacancy/36719374?query=Data%20scientist",
+        "employer": "SoftSwiss",
+        "city": "Минск",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Senior Data Scientist",
+        "link": "https://hh.ru/vacancy/37176449?query=Data%20scientist",
+        "employer": "FunCorp",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist",
+        "link": "https://hh.ru/vacancy/37024397?query=Data%20scientist",
+        "employer": "Strategy Partners Group",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist (OWL,Graph Data)",
+        "link": "https://hh.ru/vacancy/36988387?query=Data%20scientist",
+        "employer": "Сбербанк для экспертов",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Fullstack developer",
+        "link": "https://hh.ru/vacancy/37218494?query=Data%20scientist",
+        "employer": "CONNECT PLUS INFORMATION TECHNOLOGY CO. L.L.C",
+        "city": "ОАЭ",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Ведущий Scala разработчик (Java/C++/C#)",
+        "link": "https://hh.ru/vacancy/36999290?query=Data%20scientist",
+        "employer": "ООО Цифроматика",
+        "city": "Санкт-Петербург",
+        "salary_min": null,
+        "salary_max": 200000,
+        "salary_currency": "руб."
+    },
+    {
+        "source": "hh.ru",
+        "title": "Senior ETL Developer for Ciklum Digital",
+        "link": "https://hh.ru/vacancy/37293271?query=Data%20scientist",
+        "employer": "Ciklum",
+        "city": "Минск",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Стажер data scientist в финтех компании",
+        "link": "https://hh.ru/vacancy/37469880?query=Data%20scientist",
+        "employer": "WiseTech",
+        "city": "Томск",
+        "salary_min": 40000,
+        "salary_max": 70000,
+        "salary_currency": "руб."
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist",
+        "link": "https://hh.ru/vacancy/37299638?query=Data%20scientist",
+        "employer": "ПАО МегаФон, IT",
+        "city": "Краснодар",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist (Computer Vision)",
+        "link": "https://hh.ru/vacancy/34982073?query=Data%20scientist",
+        "employer": "Тинькофф",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "DS Teamlead на голосовые сервисы",
+        "link": "https://hh.ru/vacancy/37247151?query=Data%20scientist",
+        "employer": "Тинькофф",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Oracle developer",
+        "link": "https://hh.ru/vacancy/37468936?query=Data%20scientist",
+        "employer": "ООО Лайфтех",
+        "city": "Минск",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist",
+        "link": "https://hh.ru/vacancy/37457936?query=Data%20scientist",
+        "employer": "Группа компаний SRG",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Senior Data Scientist",
+        "link": "https://hh.ru/vacancy/35966230?query=Data%20scientist",
+        "employer": "mfms°",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data scientist",
+        "link": "https://hh.ru/vacancy/37455276?query=Data%20scientist",
+        "employer": "Сбербанк для экспертов",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Senior Data Scientist",
+        "link": "https://hh.ru/vacancy/37036204?query=Data%20scientist",
+        "employer": "«РОСБАНК, Societe Generale Group», с опытом работы",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Senior Ruby Developer",
+        "link": "https://hh.ru/vacancy/36758627?query=Data%20scientist",
+        "employer": "ООО ВЕЛВЕТЕК Системз",
+        "city": "Новосибирск",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Team Lead Data Scientist (Surge Pricing)",
+        "link": "https://hh.ru/vacancy/37457846?query=Data%20scientist",
+        "employer": "Ситимобил",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Математик-аналитик (data scientist / data analyst)",
+        "link": "https://hh.ru/vacancy/37327686?query=Data%20scientist",
+        "employer": "ООО ННФормат",
+        "city": "Санкт-Петербург",
+        "salary_min": 85000,
+        "salary_max": null,
+        "salary_currency": "руб."
+    },
+    {
+        "source": "hh.ru",
+        "title": "Скоринг-аналитик / Data scientist /Аналитик (скоринг)",
+        "link": "https://hh.ru/vacancy/37459004?query=Data%20scientist",
+        "employer": "RRC Consulting",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Специалист по тестированию ПО",
+        "link": "https://hh.ru/vacancy/37412796?query=Data%20scientist",
+        "employer": "Сбербанк для экспертов",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Тестировщик",
+        "link": "https://hh.ru/vacancy/37332227?query=Data%20scientist",
+        "employer": "Сбербанк для руководителей",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Product Analyst / Data Analyst (ЖД)",
+        "link": "https://hh.ru/vacancy/36880392?query=Data%20scientist",
+        "employer": "Туту.ру",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Аналитик данных (data analyst)/data scientist (data mining)",
+        "link": "https://hh.ru/vacancy/37221045?query=Data%20scientist",
+        "employer": "HOLODILNIK.RU",
+        "city": "Москва",
+        "salary_min": 150000,
+        "salary_max": null,
+        "salary_currency": "руб."
+    },
+    {
+        "source": "hh.ru",
+        "title": "Разработчик ETL-движка",
+        "link": "https://hh.ru/vacancy/36601503?query=Data%20scientist",
+        "employer": "Сбербанк для экспертов",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Аналитик данных в CRM",
+        "link": "https://hh.ru/vacancy/37436267?query=Data%20scientist",
+        "employer": "Банк ВТБ (ПАО)",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Старший аналитик данных в CRM",
+        "link": "https://hh.ru/vacancy/37436097?query=Data%20scientist",
+        "employer": "Банк ВТБ (ПАО)",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Ведущий разработчик ETL",
+        "link": "https://hh.ru/vacancy/37166495?query=Data%20scientist",
+        "employer": "МАГНИТ, Розничная сеть",
+        "city": "Краснодар",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Технический директор разработки SAAS продукта",
+        "link": "https://hh.ru/vacancy/37249572?query=Data%20scientist",
+        "employer": "Bell Integrator",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Technical Lead for NLP / Conversational Systems",
+        "link": "https://hh.ru/vacancy/37149413?query=Data%20scientist",
+        "employer": "Grid Dynamics",
+        "city": "Санкт-Петербург",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "IOS Developer",
+        "link": "https://hh.ru/vacancy/37461927?query=Data%20scientist",
+        "employer": "ООО Перфект Арт",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "IOS Developer",
+        "link": "https://hh.ru/vacancy/37461928?query=Data%20scientist",
+        "employer": "ООО Перфект Арт",
+        "city": "Санкт-Петербург",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Аналитик/Data Scientist",
+        "link": "https://hh.ru/vacancy/37443523?query=Data%20scientist",
+        "employer": "ООО Инновационная мобильность",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist (продукт Асконс)",
+        "link": "https://hh.ru/vacancy/37442532?query=Data%20scientist",
+        "employer": "Сбербанк для экспертов",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Валидатор (Data Scientist)",
+        "link": "https://hh.ru/vacancy/36741181?query=Data%20scientist",
+        "employer": "«РОСБАНК, Societe Generale Group», с опытом работы",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "IT Recruiter",
+        "link": "https://hh.ru/vacancy/36529313?query=Data%20scientist",
+        "employer": "Авито",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data scientist (middle)",
+        "link": "https://hh.ru/vacancy/36955232?query=Data%20scientist",
+        "employer": "Открытые Технологии",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": 150000,
+        "salary_currency": "руб."
+    },
+    {
+        "source": "hh.ru",
+        "title": "Lead Data scientist",
+        "link": "https://hh.ru/vacancy/36657251?query=Data%20scientist",
+        "employer": "Инфосистемы Джет",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data scientist / Python программист по машинному обучению",
+        "link": "https://hh.ru/vacancy/37431013?query=Data%20scientist",
+        "employer": "ГРЧЦ, ФГУП",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Business Analyst",
+        "link": "https://hh.ru/vacancy/36915503?query=Data%20scientist",
+        "employer": "ООО Перфект Арт",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist (Junior-Middle)",
+        "link": "https://hh.ru/vacancy/36176413?query=Data%20scientist",
+        "employer": "ИНСТИТУТ ИННОВАЦИОННОГО РАЗВИТИЯ",
+        "city": "Самара",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Главный менеджер/ Инженер данных (Data Miner)",
+        "link": "https://hh.ru/vacancy/37438609?query=Data%20scientist",
+        "employer": "Норникель",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Системный архитектор",
+        "link": "https://hh.ru/vacancy/37445845?query=Data%20scientist",
+        "employer": "2050.Digital",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "DATA ENGINEER",
+        "link": "https://hh.ru/vacancy/37125590?query=Data%20scientist",
+        "employer": "Сибур",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data scientist",
+        "link": "https://hh.ru/vacancy/36915671?query=Data%20scientist",
+        "employer": "DPD в России",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Специалист по машинному обучению / Чат-бот",
+        "link": "https://hh.ru/vacancy/37432918?query=Data%20scientist",
+        "employer": "Банк Хоум Кредит",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Младший специалист Data Scientist",
+        "link": "https://hh.ru/vacancy/37423998?query=Data%20scientist",
+        "employer": "Северсталь. ИТ Компания",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Младший специалист Data Scientist",
+        "link": "https://hh.ru/vacancy/37423999?query=Data%20scientist",
+        "employer": "Северсталь. ИТ Компания",
+        "city": "Воронеж",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Chief Data Scientist",
+        "link": "https://hh.ru/vacancy/36971316?query=Data%20scientist",
+        "employer": "Аэропорт Пулково (ООО Воздушные Ворота Северной Столицы)",
+        "city": "Санкт-Петербург",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist",
+        "link": "https://hh.ru/vacancy/37405358?query=Data%20scientist",
+        "employer": "ООО Mercury Development",
+        "city": "Самара",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist (NLP)",
+        "link": "https://hh.ru/vacancy/37404715?query=Data%20scientist",
+        "employer": "M-soft",
+        "city": "Санкт-Петербург",
+        "salary_min": 120000,
+        "salary_max": 150000,
+        "salary_currency": "руб."
+    },
+    {
+        "source": "hh.ru",
+        "title": "Middle Data Scientist",
+        "link": "https://hh.ru/vacancy/37415376?query=Data%20scientist",
+        "employer": "Сбербанк для экспертов",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Технический директор",
+        "link": "https://hh.ru/vacancy/37186428?query=Data%20scientist",
+        "employer": "ИП Мешкова",
+        "city": "Иркутск",
+        "salary_min": 400000,
+        "salary_max": 600000,
+        "salary_currency": "руб."
+    },
+    {
+        "source": "hh.ru",
+        "title": "Python developer (Data Engineer)",
+        "link": "https://hh.ru/vacancy/33647219?query=Data%20scientist",
+        "employer": "Admitad",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "MIddle Data Analyst / Scientist",
+        "link": "https://hh.ru/vacancy/37190219?query=Data%20scientist",
+        "employer": "Компания «СПОРТМАСТЕР», SM Lab",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Senior Data Scientist (BigData)",
+        "link": "https://hh.ru/vacancy/35203074?query=Data%20scientist",
+        "employer": "DINS",
+        "city": "Санкт-Петербург",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data scientist (аналитик/ моделист)",
+        "link": "https://hh.ru/vacancy/37402692?query=Data%20scientist",
+        "employer": "Star-staff",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data аналитик/Data Scientist",
+        "link": "https://hh.ru/vacancy/36627500?query=Data%20scientist",
+        "employer": "Beeline, ТМ",
+        "city": "Алматы",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist (family office)",
+        "link": "https://hh.ru/vacancy/36697301?query=Data%20scientist",
+        "employer": "WОRKKI",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Mid/Senior Data Engineer (ML & Big Data)",
+        "link": "https://hh.ru/vacancy/37400351?query=Data%20scientist",
+        "employer": "ООО СЕТС Китайская Электротехника",
+        "city": "Минск",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Engineer",
+        "link": "https://hh.ru/vacancy/37189731?query=Data%20scientist",
+        "employer": "Компания «СПОРТМАСТЕР», SM Lab",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Senior Data Scientist (Predictive analytics)",
+        "link": "https://hh.ru/vacancy/37105028?query=Data%20scientist",
+        "employer": "ОТП Банк, АО (OTP bank)",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist in Data & Analytics Lab",
+        "link": "https://hh.ru/vacancy/37395163?query=Data%20scientist",
+        "employer": "PwC, Департамент бизнес-консультирования",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Senior Data Scientist",
+        "link": "https://hh.ru/vacancy/37350561?query=Data%20scientist",
+        "employer": "ЦИАН ГРУПП",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Аналитик-математик (Data scientist)",
+        "link": "https://hh.ru/vacancy/37020699?query=Data%20scientist",
+        "employer": "ООО Финансово-правовой альянс",
+        "city": "Санкт-Петербург",
+        "salary_min": 80000,
+        "salary_max": 100000,
+        "salary_currency": "руб."
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist в Predictive Analytic Solutions",
+        "link": "https://hh.ru/vacancy/37401988?query=Data%20scientist",
+        "employer": "Mail.Ru Group, Другое",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist (recommender systems)",
+        "link": "https://hh.ru/vacancy/37383027?query=Data%20scientist",
+        "employer": "АО Центр программ лояльности",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Seeds Product Placement Scientist Sunflower (Russia)",
+        "link": "https://hh.ru/vacancy/37385423?query=Data%20scientist",
+        "employer": "Syngenta",
+        "city": "Воронеж",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Engineer",
+        "link": "https://hh.ru/vacancy/37333749?query=Data%20scientist",
+        "employer": "ЦИАН ГРУПП",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Руководитель аналитического направления",
+        "link": "https://hh.ru/vacancy/34338759?query=Data%20scientist",
+        "employer": "Командор, сеть супермаркетов",
+        "city": "Красноярск",
+        "salary_min": 80000,
+        "salary_max": null,
+        "salary_currency": "руб."
+    },
+    {
+        "source": "hh.ru",
+        "title": "Аналитик данных",
+        "link": "https://hh.ru/vacancy/36912012?query=Data%20scientist",
+        "employer": "Командор, сеть супермаркетов",
+        "city": "Красноярск",
+        "salary_min": null,
+        "salary_max": 50000,
+        "salary_currency": "руб."
+    },
+    {
+        "source": "hh.ru",
+        "title": "Ведущий инженер по тестированию",
+        "link": "https://hh.ru/vacancy/36057559?query=Data%20scientist",
+        "employer": "ООО Газпром-медиа Развлекательное телевидение (ГПМ РТВ)",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": 250000,
+        "salary_currency": "руб."
+    },
+    {
+        "source": "hh.ru",
+        "title": "Thai language Linguist",
+        "link": "https://hh.ru/vacancy/37398454?query=Data%20scientist",
+        "employer": "HUAWEI",
+        "city": "Санкт-Петербург",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Malay language Linguist",
+        "link": "https://hh.ru/vacancy/37398373?query=Data%20scientist",
+        "employer": "HUAWEI",
+        "city": "Санкт-Петербург",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Senior Data Engineer / Ведущий инженер данных",
+        "link": "https://hh.ru/vacancy/37167337?query=Data%20scientist",
+        "employer": "ООО Газпром-медиа Развлекательное телевидение (ГПМ РТВ)",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Senior ML-инженер Speech-to-Text (распознавание речи)",
+        "link": "https://hh.ru/vacancy/37379178?query=Data%20scientist",
+        "employer": "ТОО Re:point",
+        "city": "Алматы",
+        "salary_min": 1000000,
+        "salary_max": null,
+        "salary_currency": "KZT"
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist",
+        "link": "https://hh.ru/vacancy/35613394?query=Data%20scientist",
+        "employer": "ООО Эволюшн Продактс Девелопмент",
+        "city": "Минск",
+        "salary_min": 3000,
+        "salary_max": 5000,
+        "salary_currency": "USD"
+    },
+    {
+        "source": "hh.ru",
+        "title": "Machine Learning Engineer / Data Scientist (DS Team)",
+        "link": "https://hh.ru/vacancy/36647989?query=Data%20scientist",
+        "employer": "SEMrush",
+        "city": "Санкт-Петербург",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist",
+        "link": "https://hh.ru/vacancy/36861139?query=Data%20scientist",
+        "employer": "Wargaming, Minsk (Game Stream)",
+        "city": "Минск",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist (Computer Vision)",
+        "link": "https://hh.ru/vacancy/36415870?query=Data%20scientist",
+        "employer": "Аванта",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Главный менеджер по аналитике данных (Data Scientist)",
+        "link": "https://hh.ru/vacancy/37364650?query=Data%20scientist",
+        "employer": "Норникель",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist (Computer Vision)",
+        "link": "https://hh.ru/vacancy/37366687?query=Data%20scientist",
+        "employer": "ПАО «МТС»,IT",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "HR менеджер (Data Science)",
+        "link": "https://hh.ru/vacancy/37363543?query=Data%20scientist",
+        "employer": "InsightWhale",
+        "city": "Санкт-Петербург",
+        "salary_min": 70000,
+        "salary_max": 110000,
+        "salary_currency": "руб."
+    },
+    {
+        "source": "hh.ru",
+        "title": "Senior Data Scientist NLP",
+        "link": "https://hh.ru/vacancy/36777568?query=Data%20scientist",
+        "employer": "Сбербанк для экспертов",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Ведущий аналитик-математик (Data Scientist)",
+        "link": "https://hh.ru/vacancy/37169353?query=Data%20scientist",
+        "employer": "Greenway",
+        "city": "Новосибирск",
+        "salary_min": 70000,
+        "salary_max": 80000,
+        "salary_currency": "руб."
+    },
+    {
+        "source": "hh.ru",
+        "title": "Middle / Senior Data Scientist",
+        "link": "https://hh.ru/vacancy/36313639?query=Data%20scientist",
+        "employer": "Сбербанк для экспертов",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist/ Machine Learning Engineer/ NLP Developer, SberDevices",
+        "link": "https://hh.ru/vacancy/36777585?query=Data%20scientist",
+        "employer": "Сбербанк для экспертов",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Главный специалист в Отдел риск-моделирования (Скоринг/ Data Scientist)",
+        "link": "https://hh.ru/vacancy/37368179?query=Data%20scientist",
+        "employer": "Московский Кредитный Банк",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientists Middle/Senior",
+        "link": "https://hh.ru/vacancy/35723655?query=Data%20scientist",
+        "employer": "Альфа-Банк",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Middle/Senior ML-инженер в Контур.Фокус",
+        "link": "https://hh.ru/vacancy/37371257?query=Data%20scientist",
+        "employer": "СКБ Контур",
+        "city": "Санкт-Петербург",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist",
+        "link": "https://hh.ru/vacancy/36970588?query=Data%20scientist",
+        "employer": "Аэропорт Пулково (ООО Воздушные Ворота Северной Столицы)",
+        "city": "Санкт-Петербург",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Аналитик данных (Data scientist)",
+        "link": "https://hh.ru/vacancy/37352080?query=Data%20scientist",
+        "employer": "ООО Предиктивные Технологии",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Аналитик данных (Data scientist)",
+        "link": "https://hh.ru/vacancy/37351551?query=Data%20scientist",
+        "employer": "ООО Предиктивные Технологии",
+        "city": "Санкт-Петербург",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Аналитик данных (Data scientist)",
+        "link": "https://hh.ru/vacancy/37351552?query=Data%20scientist",
+        "employer": "ООО Предиктивные Технологии",
+        "city": "Новосибирск",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Аналитик данных (Data scientist)",
+        "link": "https://hh.ru/vacancy/37351553?query=Data%20scientist",
+        "employer": "ООО Предиктивные Технологии",
+        "city": "Нижний Новгород",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Главный аналитик-математик (Data Analyst / Data Scientist)",
+        "link": "https://hh.ru/vacancy/30250856?query=Data%20scientist",
+        "employer": "Связной",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Инженер/Data-Scientist",
+        "link": "https://hh.ru/vacancy/35653703?query=Data%20scientist",
+        "employer": "Сбербанк для экспертов",
+        "city": "Рязань",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Senior Data Scientist",
+        "link": "https://hh.ru/vacancy/36124080?query=Data%20scientist",
+        "employer": "Самокат (ООО Умное пространство)",
+        "city": "Санкт-Петербург",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist / Senior Data Scientist (Python)",
+        "link": "https://hh.ru/vacancy/34251157?query=Data%20scientist",
+        "employer": "McKinsey & Company",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data scientist (SparkML)",
+        "link": "https://hh.ru/vacancy/37325042?query=Data%20scientist",
+        "employer": "Сбербанк для экспертов",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist (Специалист по обработке, анализу и хранению больших массивов данных)",
+        "link": "https://hh.ru/vacancy/36718246?query=Data%20scientist",
+        "employer": "ТОО КМГ Инжиниринг",
+        "city": "Нур-Султан",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Head of I.T. recruitment practice",
+        "link": "https://hh.ru/vacancy/37354140?query=Data%20scientist",
+        "employer": "MP Recruiting",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Methodology Scientist",
+        "link": "https://hh.ru/vacancy/37332920?query=Data%20scientist",
+        "employer": "ООО Mars (CHOCOLATE, PETCARE, FOOD)",
+        "city": "Ульяновск",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Аналитик BI / Data scientist",
+        "link": "https://hh.ru/vacancy/37095774?query=Data%20scientist",
+        "employer": "FBS Inc.",
+        "city": "Санкт-Петербург",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Pricing development manager",
+        "link": "https://hh.ru/vacancy/37331973?query=Data%20scientist",
+        "employer": "British American Tobacco Russia",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Technical Lead в Data Science-команду/Data Engineer",
+        "link": "https://hh.ru/vacancy/37111755?query=Data%20scientist",
+        "employer": "«РОСБАНК, Societe Generale Group», с опытом работы",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Бизнес-аналитик (data scientist)",
+        "link": "https://hh.ru/vacancy/37308066?query=Data%20scientist",
+        "employer": "АО Сочинский мясокомбинат",
+        "city": "Краснодар",
+        "salary_min": null,
+        "salary_max": 90000,
+        "salary_currency": "руб."
+    },
+    {
+        "source": "hh.ru",
+        "title": "Бизнес-аналитик (data scientist)",
+        "link": "https://hh.ru/vacancy/37308067?query=Data%20scientist",
+        "employer": "АО Сочинский мясокомбинат",
+        "city": "Сочи",
+        "salary_min": null,
+        "salary_max": 90000,
+        "salary_currency": "руб."
+    },
+    {
+        "source": "hh.ru",
+        "title": "Senior Data Scientist (новостной мониторинг)",
+        "link": "https://hh.ru/vacancy/37300195?query=Data%20scientist",
+        "employer": "Сбербанк для экспертов",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Lead Data Scientist",
+        "link": "https://hh.ru/vacancy/37303673?query=Data%20scientist",
+        "employer": "Jar Soft",
+        "city": "Новосибирск",
+        "salary_min": 3000,
+        "salary_max": null,
+        "salary_currency": "USD"
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist (GameDev)",
+        "link": "https://hh.ru/vacancy/31460069?query=Data%20scientist",
+        "employer": "Panoramik",
+        "city": "Санкт-Петербург",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist",
+        "link": "https://hh.ru/vacancy/32273410?query=Data%20scientist",
+        "employer": "ОАО Оммет",
+        "city": "Омск",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Lead Data Scientist в Дивизион Особенные Решения (Блок Розничный Бизнес)",
+        "link": "https://hh.ru/vacancy/36874620?query=Data%20scientist",
+        "employer": "Сбербанк для экспертов",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Product Manager (Datalore)",
+        "link": "https://hh.ru/vacancy/37314233?query=Data%20scientist",
+        "employer": "JetBrains",
+        "city": "Санкт-Петербург",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Product Manager (Datalore)",
+        "link": "https://hh.ru/vacancy/37314234?query=Data%20scientist",
+        "employer": "JetBrains",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Ведущий аналитик данных/Data scientist",
+        "link": "https://hh.ru/vacancy/37302886?query=Data%20scientist",
+        "employer": "Сбербанк для экспертов",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Analyst",
+        "link": "https://hh.ru/vacancy/37313262?query=Data%20scientist",
+        "employer": "Grid Dynamics",
+        "city": "Саратов",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Analyst",
+        "link": "https://hh.ru/vacancy/37309198?query=Data%20scientist",
+        "employer": "Grid Dynamics",
+        "city": "Санкт-Петербург",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist",
+        "link": "https://hh.ru/vacancy/30065191?query=Data%20scientist",
+        "employer": "МФИ Софт",
+        "city": "Нижний Новгород",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist",
+        "link": "https://hh.ru/vacancy/37288361?query=Data%20scientist",
+        "employer": "Gurtam",
+        "city": "Минск",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Руководитель направления по аналитике данных",
+        "link": "https://hh.ru/vacancy/37303929?query=Data%20scientist",
+        "employer": "Сбербанк для экспертов",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Старший специалист направления моделирования и прогнозирования рисков",
+        "link": "https://hh.ru/vacancy/35809661?query=Data%20scientist",
+        "employer": "Сетелем Банк",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Marketing Data Scientist",
+        "link": "https://hh.ru/vacancy/37251380?query=Data%20scientist",
+        "employer": "DELVE",
+        "city": "Минск",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Разработчик data scientist (python, TensorFlow)",
+        "link": "https://hh.ru/vacancy/37242462?query=Data%20scientist",
+        "employer": "ООО Виста",
+        "city": "Санкт-Петербург",
+        "salary_min": 60000,
+        "salary_max": null,
+        "salary_currency": "руб."
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist/Senior Data Scientist",
+        "link": "https://hh.ru/vacancy/37246771?query=Data%20scientist",
+        "employer": "СИТИЛИНК",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data scientist",
+        "link": "https://hh.ru/vacancy/37238631?query=Data%20scientist",
+        "employer": "Группа НЛМК",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Аналитик / Data scientist",
+        "link": "https://hh.ru/vacancy/36638171?query=Data%20scientist",
+        "employer": "Dentsu Aegis Network Russia",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Аналитик (эконометрическое моделирование) / Data scientist",
+        "link": "https://hh.ru/vacancy/35559381?query=Data%20scientist",
+        "employer": "Dentsu Aegis Network Russia",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Senior Data Scientist",
+        "link": "https://hh.ru/vacancy/37233904?query=Data%20scientist",
+        "employer": "Сбербанк для экспертов",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Middle data scientist",
+        "link": "https://hh.ru/vacancy/37226477?query=Data%20scientist",
+        "employer": "МАГНИТ, Розничная сеть",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Engineer / Python",
+        "link": "https://hh.ru/vacancy/37243747?query=Data%20scientist",
+        "employer": "ООО IHS Global",
+        "city": "Минск",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Senior Data Engineer / Python",
+        "link": "https://hh.ru/vacancy/37243871?query=Data%20scientist",
+        "employer": "ООО IHS Global",
+        "city": "Минск",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Разработчик в области ML ( images / data science)",
+        "link": "https://hh.ru/vacancy/37228910?query=Data%20scientist",
+        "employer": "ООО Авантренд",
+        "city": "Екатеринбург",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data-инженер (Lead DE «Инструменты управления рисками и потерями в Сети продаж»)",
+        "link": "https://hh.ru/vacancy/37248056?query=Data%20scientist",
+        "employer": "Сбербанк для экспертов",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "DevOps (Hadoop)",
+        "link": "https://hh.ru/vacancy/37224708?query=Data%20scientist",
+        "employer": "Тинькофф",
+        "city": "Ростов-на-Дону",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Junior Data Analyst / Scientist",
+        "link": "https://hh.ru/vacancy/37190250?query=Data%20scientist",
+        "employer": "Компания «СПОРТМАСТЕР», SM Lab",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist (NLP)",
+        "link": "https://hh.ru/vacancy/37183492?query=Data%20scientist",
+        "employer": "Сбербанк для экспертов",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist (Computer Vision)",
+        "link": "https://hh.ru/vacancy/37183409?query=Data%20scientist",
+        "employer": "Сбербанк для экспертов",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist",
+        "link": "https://hh.ru/vacancy/36800183?query=Data%20scientist",
+        "employer": "ПАО «МТС»,IT",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Senior Data Scientist (Machine Reading)",
+        "link": "https://hh.ru/vacancy/36416022?query=Data%20scientist",
+        "employer": "Сбербанк для экспертов",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Эксперт по математическому моделированию",
+        "link": "https://hh.ru/vacancy/37229576?query=Data%20scientist",
+        "employer": "Кселл, АО",
+        "city": "Алматы",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Старший специалист по математическому моделированию",
+        "link": "https://hh.ru/vacancy/37229561?query=Data%20scientist",
+        "employer": "Кселл, АО",
+        "city": "Алматы",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "AI Research Engineer [Computer Vision, Machine Learning, Algorithms]",
+        "link": "https://hh.ru/vacancy/37223050?query=Data%20scientist",
+        "employer": "Coleman Services",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist (голосовые технологии)",
+        "link": "https://hh.ru/vacancy/36801563?query=Data%20scientist",
+        "employer": "Тинькофф",
+        "city": "Новосибирск",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Lead DS (NLP)",
+        "link": "https://hh.ru/vacancy/37219741?query=Data%20scientist",
+        "employer": "Сбербанк для экспертов",
+        "city": "Санкт-Петербург",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data scientist",
+        "link": "https://hh.ru/vacancy/37180095?query=Data%20scientist",
+        "employer": "ООО Перфект Арт",
+        "city": "Томск",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data scientist",
+        "link": "https://hh.ru/vacancy/37180064?query=Data%20scientist",
+        "employer": "ООО Перфект Арт",
+        "city": "Новосибирск",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data scientist / Machine learning engineer в команду Видео",
+        "link": "https://hh.ru/vacancy/37182202?query=Data%20scientist",
+        "employer": "ВКонтакте",
+        "city": "Санкт-Петербург",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "AI Research Engineer [Computer Vision, Machine Learning, Algorithms]",
+        "link": "https://hh.ru/vacancy/37220166?query=Data%20scientist",
+        "employer": "Coleman Services",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Senior Data Scientist ( блок УБ)",
+        "link": "https://hh.ru/vacancy/37176728?query=Data%20scientist",
+        "employer": "Сбербанк для экспертов",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Senior Data Scientist (NLP) / Старший специалист по машинному обучению",
+        "link": "https://hh.ru/vacancy/37189689?query=Data%20scientist",
+        "employer": "Компания «СПОРТМАСТЕР», SM Lab",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist (Junior)",
+        "link": "https://hh.ru/vacancy/36815254?query=Data%20scientist",
+        "employer": "МАГНИТ, Розничная сеть",
+        "city": "Краснодар",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Senior Data Scientist (Deep Learning)",
+        "link": "https://hh.ru/vacancy/35304556?query=Data%20scientist",
+        "employer": "Сбербанк для руководителей",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Junior Data scientist / Big data аналитик",
+        "link": "https://hh.ru/vacancy/37160136?query=Data%20scientist",
+        "employer": "Кадровое агентство Алексея Сухорукова",
+        "city": "Новосибирск",
+        "salary_min": 30000,
+        "salary_max": 40000,
+        "salary_currency": "руб."
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist (блок риски)",
+        "link": "https://hh.ru/vacancy/35217354?query=Data%20scientist",
+        "employer": "Сбербанк для руководителей",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist (Middle/ Senior)",
+        "link": "https://hh.ru/vacancy/37171113?query=Data%20scientist",
+        "employer": "КОМПЛИТ",
+        "city": "Санкт-Петербург",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Senior Data Scientist (AutoML)",
+        "link": "https://hh.ru/vacancy/36486505?query=Data%20scientist",
+        "employer": "Сбербанк для экспертов",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Big data developer/data engineer (middle/senior)",
+        "link": "https://hh.ru/vacancy/36426931?query=Data%20scientist",
+        "employer": "ООО Ростелеком Информационные Технологии",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Senior Data Scientist (Surge Pricing)",
+        "link": "https://hh.ru/vacancy/35409042?query=Data%20scientist",
+        "employer": "Ситимобил",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Диджитал-аналитик (Digital Analyst)",
+        "link": "https://hh.ru/vacancy/37175972?query=Data%20scientist",
+        "employer": "MTRENDO",
+        "city": "Москва",
+        "salary_min": 75000,
+        "salary_max": 150000,
+        "salary_currency": "руб."
+    },
+    {
+        "source": "hh.ru",
+        "title": "Senior data science",
+        "link": "https://hh.ru/vacancy/36815679?query=Data%20scientist",
+        "employer": "МАГНИТ, Розничная сеть",
+        "city": "Краснодар",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Senior data science",
+        "link": "https://hh.ru/vacancy/36815680?query=Data%20scientist",
+        "employer": "МАГНИТ, Розничная сеть",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist",
+        "link": "https://hh.ru/vacancy/37134850?query=Data%20scientist",
+        "employer": "EPAM Systems, Inc.",
+        "city": "Нижний Новгород",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist в Марусю (Voice Recognition)",
+        "link": "https://hh.ru/vacancy/34785750?query=Data%20scientist",
+        "employer": "Mail.Ru Group, Другое",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Officer",
+        "link": "https://hh.ru/vacancy/36880411?query=Data%20scientist",
+        "employer": "ОАО Банк БелВЭБ",
+        "city": "Минск",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Python Data Scientist",
+        "link": "https://hh.ru/vacancy/37137219?query=Data%20scientist",
+        "employer": "ООО ПрограмЛаб",
+        "city": "Челябинск",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Senior R&D Engineer",
+        "link": "https://hh.ru/vacancy/36782712?query=Data%20scientist",
+        "employer": "Synopsys",
+        "city": "Санкт-Петербург",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist (клиентская аналитика)",
+        "link": "https://hh.ru/vacancy/37153130?query=Data%20scientist",
+        "employer": "ПАО МегаФон, IT",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data scientist/Machine learning engineer в Команду CoreML",
+        "link": "https://hh.ru/vacancy/35493975?query=Data%20scientist",
+        "employer": "ВКонтакте",
+        "city": "Санкт-Петербург",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Machine Learning Data Engineer",
+        "link": "https://hh.ru/vacancy/37143828?query=Data%20scientist",
+        "employer": "Новикова Анна Анатольевна",
+        "city": "Киев",
+        "salary_min": 3000,
+        "salary_max": 8000,
+        "salary_currency": "USD"
+    },
+    {
+        "source": "hh.ru",
+        "title": "Machine Learning Data Engineer",
+        "link": "https://hh.ru/vacancy/37143829?query=Data%20scientist",
+        "employer": "Новикова Анна Анатольевна",
+        "city": "Минск",
+        "salary_min": 3000,
+        "salary_max": 8000,
+        "salary_currency": "USD"
+    },
+    {
+        "source": "hh.ru",
+        "title": "Representation Learning Senior Research Scientist",
+        "link": "https://hh.ru/vacancy/37143802?query=Data%20scientist",
+        "employer": "Новикова Анна Анатольевна",
+        "city": "Киев",
+        "salary_min": 3000,
+        "salary_max": 8000,
+        "salary_currency": "USD"
+    },
+    {
+        "source": "hh.ru",
+        "title": "Representation Learning Senior Research Scientist",
+        "link": "https://hh.ru/vacancy/37143803?query=Data%20scientist",
+        "employer": "Новикова Анна Анатольевна",
+        "city": "Минск",
+        "salary_min": 3000,
+        "salary_max": 8000,
+        "salary_currency": "USD"
+    },
+    {
+        "source": "hh.ru",
+        "title": "Ведущий разработчик ETL",
+        "link": "https://hh.ru/vacancy/37166496?query=Data%20scientist",
+        "employer": "МАГНИТ, Розничная сеть",
+        "city": "Санкт-Петербург",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Ведущий разработчик ETL",
+        "link": "https://hh.ru/vacancy/37166497?query=Data%20scientist",
+        "employer": "МАГНИТ, Розничная сеть",
+        "city": "Новосибирск",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Ведущий разработчик ETL",
+        "link": "https://hh.ru/vacancy/37166498?query=Data%20scientist",
+        "employer": "МАГНИТ, Розничная сеть",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist (Middle/Senior) - моделирование кредитных рисков корпоративных клиентов (Блок Риски)",
+        "link": "https://hh.ru/vacancy/33462158?query=Data%20scientist",
+        "employer": "Сбербанк для экспертов",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Разработчик моделей машинного обучения / Data scientist",
+        "link": "https://hh.ru/vacancy/37251842?query=Data%20scientist",
+        "employer": "ТОО Первое Кредитное бюро",
+        "city": "Алматы",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Аналитик данных / Data scientist",
+        "link": "https://hh.ru/vacancy/36953584?query=Data%20scientist",
+        "employer": "Программный Продукт, ИТ-компания",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "ML Разработчик / Data scientist (Центр искусственного интеллекта)",
+        "link": "https://hh.ru/vacancy/36757081?query=Data%20scientist",
+        "employer": "ПАО «МТС»,IT",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data scientist",
+        "link": "https://hh.ru/vacancy/37120889?query=Data%20scientist",
+        "employer": "ТОО VILED GROUP",
+        "city": "Алматы",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Senior Data Scientist в NLP лабораторию",
+        "link": "https://hh.ru/vacancy/34880820?query=Data%20scientist",
+        "employer": "СКБ Контур",
+        "city": "Иннополис",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Senior Data Scientist в NLP лабораторию",
+        "link": "https://hh.ru/vacancy/34880859?query=Data%20scientist",
+        "employer": "СКБ Контур",
+        "city": "Санкт-Петербург",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Senior Data Scientist в NLP лабораторию",
+        "link": "https://hh.ru/vacancy/34880868?query=Data%20scientist",
+        "employer": "СКБ Контур",
+        "city": "Екатеринбург",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Senior Data Scientist в NLP лабораторию",
+        "link": "https://hh.ru/vacancy/34880886?query=Data%20scientist",
+        "employer": "СКБ Контур",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist (Команда Знания о клиенте)",
+        "link": "https://hh.ru/vacancy/37107520?query=Data%20scientist",
+        "employer": "Сбербанк для экспертов",
+        "city": "Санкт-Петербург",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Аналитик данных (Data Scientist) разработчик",
+        "link": "https://hh.ru/vacancy/36720253?query=Data%20scientist",
+        "employer": "Аналитический центр",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Front-end разработчик -> Data scientist",
+        "link": "https://hh.ru/vacancy/37108396?query=Data%20scientist",
+        "employer": "InsightWhale",
+        "city": "Санкт-Петербург",
+        "salary_min": 60000,
+        "salary_max": 120000,
+        "salary_currency": "руб."
+    },
+    {
+        "source": "hh.ru",
+        "title": "Старший методолог по анализу данных (Senior Data Scientist)",
+        "link": "https://hh.ru/vacancy/37073502?query=Data%20scientist",
+        "employer": "Норникель",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Ведущий Data Scientist (NLP)",
+        "link": "https://hh.ru/vacancy/37085148?query=Data%20scientist",
+        "employer": "ООО Тензор",
+        "city": "Екатеринбург",
+        "salary_min": 130000,
+        "salary_max": 200000,
+        "salary_currency": "руб."
+    },
+    {
+        "source": "hh.ru",
+        "title": "Ведущий Data Scientist (NLP)",
+        "link": "https://hh.ru/vacancy/37085152?query=Data%20scientist",
+        "employer": "ООО Тензор",
+        "city": "Новосибирск",
+        "salary_min": 130000,
+        "salary_max": 200000,
+        "salary_currency": "руб."
+    },
+    {
+        "source": "hh.ru",
+        "title": "Ведущий Data Scientist (NLP)",
+        "link": "https://hh.ru/vacancy/37085157?query=Data%20scientist",
+        "employer": "ООО Тензор",
+        "city": "Санкт-Петербург",
+        "salary_min": 130000,
+        "salary_max": 200000,
+        "salary_currency": "руб."
+    },
+    {
+        "source": "hh.ru",
+        "title": "Ведущий Data Scientist (NLP)",
+        "link": "https://hh.ru/vacancy/37085168?query=Data%20scientist",
+        "employer": "ООО Тензор",
+        "city": "Ярославль",
+        "salary_min": 130000,
+        "salary_max": 200000,
+        "salary_currency": "руб."
+    },
+    {
+        "source": "hh.ru",
+        "title": "Senior Data Scientist (УТФ)",
+        "link": "https://hh.ru/vacancy/37021862?query=Data%20scientist",
+        "employer": "Сбербанк для экспертов",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Senior Data Scientist (Дивизион ЦКР)",
+        "link": "https://hh.ru/vacancy/36940290?query=Data%20scientist",
+        "employer": "Сбербанк для экспертов",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data scientist (Центр по исследованию данных)",
+        "link": "https://hh.ru/vacancy/36360280?query=Data%20scientist",
+        "employer": "Сбербанк для экспертов",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Middle/Senior ML-инженер в Контур.Фокус",
+        "link": "https://hh.ru/vacancy/35002510?query=Data%20scientist",
+        "employer": "СКБ Контур",
+        "city": "Иннополис",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Science Specialist (NLP)",
+        "link": "https://hh.ru/vacancy/35849387?query=Data%20scientist",
+        "employer": "Сбербанк для экспертов",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Руководитель направления дата аналитики/data science",
+        "link": "https://hh.ru/vacancy/37088953?query=Data%20scientist",
+        "employer": "ABCstaff",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Генетик – аналитик данных (data scientist)",
+        "link": "https://hh.ru/vacancy/37073561?query=Data%20scientist",
+        "employer": "ФГБУ ЦСП ФМБА России",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist в Корпоративно-Инвестиционный Блок Банка",
+        "link": "https://hh.ru/vacancy/36550195?query=Data%20scientist",
+        "employer": "Сбербанк для экспертов",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Аналитик (data scientist)",
+        "link": "https://hh.ru/vacancy/36561764?query=Data%20scientist",
+        "employer": "ООО Юнайт-Девелопмент Групп",
+        "city": "Казань",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Senior Python Systems Engineer",
+        "link": "https://hh.ru/vacancy/37095658?query=Data%20scientist",
+        "employer": "PeakData",
+        "city": "Москва",
+        "salary_min": 200000,
+        "salary_max": 280000,
+        "salary_currency": "руб."
+    },
+    {
+        "source": "hh.ru",
+        "title": "Менеджер по исследованию больших данных (Data Scientist)",
+        "link": "https://hh.ru/vacancy/36749314?query=Data%20scientist",
+        "employer": "Tele2",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Senior Data Scientist / Machine Learning engineer",
+        "link": "https://hh.ru/vacancy/37085945?query=Data%20scientist",
+        "employer": "ООО IHS Global",
+        "city": "Минск",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Senior Data Scientist",
+        "link": "https://hh.ru/vacancy/37064677?query=Data%20scientist",
+        "employer": "Grid Dynamics",
+        "city": "Санкт-Петербург",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Middle Data Scientist (Цифровой кредитный мониторинг)",
+        "link": "https://hh.ru/vacancy/36766431?query=Data%20scientist",
+        "employer": "Сбербанк для экспертов",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Science Team Lead (Сегмента Авто)",
+        "link": "https://hh.ru/vacancy/37095427?query=Data%20scientist",
+        "employer": "ПАО «Газпром нефть»",
+        "city": "Санкт-Петербург",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data scientist (Центр валидации моделей банковской и торговой книги)",
+        "link": "https://hh.ru/vacancy/36059028?query=Data%20scientist",
+        "employer": "Сбербанк для экспертов",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Product Data Analyst",
+        "link": "https://hh.ru/vacancy/37086765?query=Data%20scientist",
+        "employer": "Miro (экс-RealtimeBoard)",
+        "city": "Пермь",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Senior Data Engineer (Spark)",
+        "link": "https://hh.ru/vacancy/37081269?query=Data%20scientist",
+        "employer": "PicsArt",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Руководитель направления по исследованию данных(Data Scientist)",
+        "link": "https://hh.ru/vacancy/34777225?query=Data%20scientist",
+        "employer": "Сбербанк для экспертов",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist (разработка скоринговых моделей)",
+        "link": "https://hh.ru/vacancy/37052134?query=Data%20scientist",
+        "employer": "ПАО МТС Банк. IT",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist (Центр валидации моделей сервисных блоков и экосистемы)",
+        "link": "https://hh.ru/vacancy/36918846?query=Data%20scientist",
+        "employer": "Сбербанк для экспертов",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data scientist (Центр валидации моделей розничного бизнеса)",
+        "link": "https://hh.ru/vacancy/36614923?query=Data%20scientist",
+        "employer": "Сбербанк для экспертов",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist",
+        "link": "https://hh.ru/vacancy/37048550?query=Data%20scientist",
+        "employer": "ПАО «МТС»,IT",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data scientist",
+        "link": "https://hh.ru/vacancy/37049593?query=Data%20scientist",
+        "employer": "ООО Облачные технологии",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data scientist/ Директор в управлении розничного моделирования",
+        "link": "https://hh.ru/vacancy/35518953?query=Data%20scientist",
+        "employer": "Банк ВТБ (ПАО)",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Senior Data Scientist",
+        "link": "https://hh.ru/vacancy/37038641?query=Data%20scientist",
+        "employer": "ООО Flo",
+        "city": "Минск",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Lead Data Scientist (RecSys) at Sberbank Corporate",
+        "link": "https://hh.ru/vacancy/36550187?query=Data%20scientist",
+        "employer": "Сбербанк для экспертов",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist in Oil & Gas",
+        "link": "https://hh.ru/vacancy/36735147?query=Data%20scientist",
+        "employer": "ООО Инжиниринговый Центр МФТИ по полезным ископаемым",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data scientist (ML модели корпоративного бизнеса)",
+        "link": "https://hh.ru/vacancy/35745166?query=Data%20scientist",
+        "employer": "Банк ВТБ (ПАО)",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist (Middle)",
+        "link": "https://hh.ru/vacancy/37015841?query=Data%20scientist",
+        "employer": "MyTona",
+        "city": "Санкт-Петербург",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist (Computer Vision)",
+        "link": "https://hh.ru/vacancy/37030777?query=Data%20scientist",
+        "employer": "ЗАО ЛЕТА",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data scientist",
+        "link": "https://hh.ru/vacancy/37029031?query=Data%20scientist",
+        "employer": "Университет Иннополис",
+        "city": "Казань",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Специалист по машинному обучению/Data Scientist (NLP)",
+        "link": "https://hh.ru/vacancy/33608231?query=Data%20scientist",
+        "employer": "Университет ИТМО",
+        "city": "Санкт-Петербург",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Senior Data scientist (ML модели корпоративного бизнеса)",
+        "link": "https://hh.ru/vacancy/36281690?query=Data%20scientist",
+        "employer": "Банк ВТБ (ПАО)",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Аналитик данных (Data Analyst/Data Scientist)",
+        "link": "https://hh.ru/vacancy/37053753?query=Data%20scientist",
+        "employer": "ООО СтандартПроект",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Front-end разработчик / Data scientist",
+        "link": "https://hh.ru/vacancy/37051477?query=Data%20scientist",
+        "employer": "InsightWhale",
+        "city": "Ульяновск",
+        "salary_min": 60000,
+        "salary_max": 120000,
+        "salary_currency": "руб."
+    },
+    {
+        "source": "hh.ru",
+        "title": "Специалист по машинному обучению / Data Scientist (FinTech)",
+        "link": "https://hh.ru/vacancy/34076417?query=Data%20scientist",
+        "employer": "Университет ИТМО",
+        "city": "Санкт-Петербург",
+        "salary_min": 75000,
+        "salary_max": null,
+        "salary_currency": "руб."
+    },
+    {
+        "source": "hh.ru",
+        "title": "Специалист по машинному обучению (Data Scientist)",
+        "link": "https://hh.ru/vacancy/35894037?query=Data%20scientist",
+        "employer": "GDC (ICL Services)",
+        "city": "Казань",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist (анализ контента)",
+        "link": "https://hh.ru/vacancy/37034370?query=Data%20scientist",
+        "employer": "i-FREE",
+        "city": "Санкт-Петербург",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Lead ML Engineer (NLP & Conversational Systems)",
+        "link": "https://hh.ru/vacancy/37084065?query=Data%20scientist",
+        "employer": "Grid Dynamics",
+        "city": "Саратов",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Senior Data Analyst",
+        "link": "https://hh.ru/vacancy/37052363?query=Data%20scientist",
+        "employer": "DINS",
+        "city": "Санкт-Петербург",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Applied Data Scientist – Client Service Operations",
+        "link": "https://hh.ru/vacancy/37036116?query=Data%20scientist",
+        "employer": "Deutsche Bank Technology Center",
+        "city": "Москва",
+        "salary_min": 220000,
+        "salary_max": null,
+        "salary_currency": "руб."
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist",
+        "link": "https://hh.ru/vacancy/37012218?query=Data%20scientist",
+        "employer": "Devim",
+        "city": "Санкт-Петербург",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist в Delivery Club",
+        "link": "https://hh.ru/vacancy/35961204?query=Data%20scientist",
+        "employer": "Mail.Ru Group, E-commerce",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist",
+        "link": "https://hh.ru/vacancy/36673660?query=Data%20scientist",
+        "employer": "ТОО Business and Technology Services",
+        "city": "Нур-Султан",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Technical Lead for NLP / Conversational Systems",
+        "link": "https://hh.ru/vacancy/36859047?query=Data%20scientist",
+        "employer": "Grid Dynamics",
+        "city": "Санкт-Петербург",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist",
+        "link": "https://hh.ru/vacancy/37007889?query=Data%20scientist",
+        "employer": "Сбербанк для экспертов",
+        "city": "Екатеринбург",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Technical Director of SaaS product",
+        "link": "https://hh.ru/vacancy/37054163?query=Data%20scientist",
+        "employer": "Bell Integrator",
+        "city": "Новосибирск",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Technical Director of SaaS product",
+        "link": "https://hh.ru/vacancy/37054143?query=Data%20scientist",
+        "employer": "Bell Integrator",
+        "city": "Екатеринбург",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Technical Director of SaaS product",
+        "link": "https://hh.ru/vacancy/37054128?query=Data%20scientist",
+        "employer": "Bell Integrator",
+        "city": "Нижний Новгород",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Technical Director of SaaS product",
+        "link": "https://hh.ru/vacancy/37054099?query=Data%20scientist",
+        "employer": "Bell Integrator",
+        "city": "Саратов",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "User Acquisition Manager",
+        "link": "https://hh.ru/vacancy/37037662?query=Data%20scientist",
+        "employer": "DELVE",
+        "city": "Минск",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Head of ML",
+        "link": "https://hh.ru/vacancy/36350194?query=Data%20scientist",
+        "employer": "ЦИАН ГРУПП",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Senior Data Scientist (NLP/Graph)",
+        "link": "https://hh.ru/vacancy/36995580?query=Data%20scientist",
+        "employer": "Сбербанк для экспертов",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Аналитик-математик (Data scientist)",
+        "link": "https://hh.ru/vacancy/34615469?query=Data%20scientist",
+        "employer": "ООО БиАйЭй-Технолоджиз",
+        "city": "Санкт-Петербург",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Mathematician (Data scientist)",
+        "link": "https://hh.ru/vacancy/36579115?query=Data%20scientist",
+        "employer": "HUAWEI",
+        "city": "Санкт-Петербург",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Mathematician (Data scientist)",
+        "link": "https://hh.ru/vacancy/36579115?query=Data%20scientist",
+        "employer": "HUAWEI",
+        "city": "Санкт-Петербург",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist",
+        "link": "https://hh.ru/vacancy/36999371?query=Data%20scientist",
+        "employer": "ООО Цифроматика",
+        "city": "Санкт-Петербург",
+        "salary_min": null,
+        "salary_max": 160000,
+        "salary_currency": "руб."
+    },
+    {
+        "source": "hh.ru",
+        "title": "Senior Data Scientist",
+        "link": "https://hh.ru/vacancy/36859214?query=Data%20scientist",
+        "employer": "Grid Dynamics",
+        "city": "Саратов",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data scientist",
+        "link": "https://hh.ru/vacancy/36966964?query=Data%20scientist",
+        "employer": "Recruitment Boutique S.M.Art",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Senior data scientist",
+        "link": "https://hh.ru/vacancy/36694503?query=Data%20scientist",
+        "employer": "ПАО МегаФон, Офис",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist, Дивизион 'Особенные решения'",
+        "link": "https://hh.ru/vacancy/36970738?query=Data%20scientist",
+        "employer": "Сбербанк для экспертов",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Аналитик данных (Data analyst/Data Scientist)",
+        "link": "https://hh.ru/vacancy/36996831?query=Data%20scientist",
+        "employer": "ООО Гарда Технологии",
+        "city": "Нижний Новгород",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Scientist (Big Data)",
+        "link": "https://hh.ru/vacancy/36982968?query=Data%20scientist",
+        "employer": "ПАО «МТС»,IT",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Продуктовый и маркетинговый аналитик",
+        "link": "https://hh.ru/vacancy/37008699?query=Data%20scientist",
+        "employer": "АБСОЛЮТ, Группа",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Senior Data Scientist / Machine Learning Developer",
+        "link": "https://hh.ru/vacancy/37000491?query=Data%20scientist",
+        "employer": "True Engineering",
+        "city": "Новосибирск",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Team Lead data scientist (коммерческое направление)",
+        "link": "https://hh.ru/vacancy/36691192?query=Data%20scientist",
+        "employer": "ПАО МегаФон, IT",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Technical Director of SaaS product",
+        "link": "https://hh.ru/vacancy/37011667?query=Data%20scientist",
+        "employer": "Bell Integrator",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "ML Engineer (Middle +)",
+        "link": "https://hh.ru/vacancy/36970508?query=Data%20scientist",
+        "employer": "Звук",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": 250000,
+        "salary_currency": "руб."
+    },
+    {
+        "source": "hh.ru",
+        "title": "Data Engineer",
+        "link": "https://hh.ru/vacancy/36958655?query=Data%20scientist",
+        "employer": "Сбербанк для экспертов",
+        "city": "Санкт-Петербург",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Frontend Vue Developer",
+        "link": "https://hh.ru/vacancy/37080498?query=Data%20scientist",
+        "employer": "ООО Стандарт Стафф",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Marketing Manager (global market)",
+        "link": "https://hh.ru/vacancy/37125980?query=Data%20scientist",
+        "employer": "SegmentStream",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Senior ML Engineer",
+        "link": "https://hh.ru/vacancy/36958651?query=Data%20scientist",
+        "employer": "Сбербанк для экспертов",
+        "city": "Санкт-Петербург",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Python+ ML&DL (Data Scientist)",
+        "link": "https://hh.ru/vacancy/37004358?query=Data%20scientist",
+        "employer": "ЕвразХолдинг",
+        "city": "Новосибирск",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Software Developer (Backend & SCADA)",
+        "link": "https://hh.ru/vacancy/36987386?query=Data%20scientist",
+        "employer": "Siemens",
+        "city": "Санкт-Петербург",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Middle/Senior ML-инженер в Контур.Фокус",
+        "link": "https://hh.ru/vacancy/35001066?query=Data%20scientist",
+        "employer": "СКБ Контур",
+        "city": "Екатеринбург",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    },
+    {
+        "source": "hh.ru",
+        "title": "Middle Data Scientist",
+        "link": "https://hh.ru/vacancy/37064295?query=Data%20scientist",
+        "employer": "Нек. орг. Платформа НТИ",
+        "city": "Москва",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_currency": null
+    }
+]

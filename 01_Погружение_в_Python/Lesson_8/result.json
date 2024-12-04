@@ -1,0 +1,188 @@
+{
+  "/run/media/kostia/Data/_Repositories/04_DataEngineer/01_\u041f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435_\u0432_Python/Lesson_8": {
+    "File_manager": {
+      "object_size": 36128,
+      "object_type": "directory",
+      "parant_directory": ""
+    },
+    "new_users.json": {
+      "object_size": 331,
+      "object_type": "file",
+      "parant_directory": ""
+    },
+    "users.json": {
+      "object_size": 134,
+      "object_type": "file",
+      "parant_directory": ""
+    },
+    "users.csv": {
+      "object_size": 50,
+      "object_type": "file",
+      "parant_directory": ""
+    },
+    "result.pickle": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": ""
+    },
+    "task_1.txt": {
+      "object_size": 111,
+      "object_type": "file",
+      "parant_directory": ""
+    },
+    "result.csv": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": ""
+    },
+    "task_1.pickle": {
+      "object_size": 215,
+      "object_type": "file",
+      "parant_directory": ""
+    },
+    "new_users.csv": {
+      "object_size": 159,
+      "object_type": "file",
+      "parant_directory": ""
+    },
+    "\u041b\u0435\u043a\u0446\u0438\u044f_8._\u041f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435_\u0432_Python._\u0421\u0435\u0440\u0438\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f.docx.pdf": {
+      "object_size": 437320,
+      "object_type": "file",
+      "parant_directory": ""
+    },
+    "result.json": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": ""
+    },
+    "task_1.json": {
+      "object_size": 201,
+      "object_type": "file",
+      "parant_directory": ""
+    },
+    "new_users.pickle": {
+      "object_size": 167,
+      "object_type": "file",
+      "parant_directory": ""
+    },
+    "users.pickle": {
+      "object_size": 88,
+      "object_type": "file",
+      "parant_directory": ""
+    },
+    "main.py": {
+      "object_size": 2348,
+      "object_type": "file",
+      "parant_directory": ""
+    }
+  },
+  "/run/media/kostia/Data/_Repositories/04_DataEngineer/01_\u041f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435_\u0432_Python/Lesson_8/File_manager": {
+    "__pycache__": {
+      "object_size": 22056,
+      "object_type": "directory",
+      "parant_directory": ""
+    },
+    "create_file_txt.py": {
+      "object_size": 693,
+      "object_type": "file",
+      "parant_directory": ""
+    },
+    "txt_to_json.py": {
+      "object_size": 1192,
+      "object_type": "file",
+      "parant_directory": ""
+    },
+    "pickle_to_csv.py": {
+      "object_size": 1375,
+      "object_type": "file",
+      "parant_directory": ""
+    },
+    "json_to_pickle.py": {
+      "object_size": 861,
+      "object_type": "file",
+      "parant_directory": ""
+    },
+    "csv_to_pickle.py": {
+      "object_size": 1132,
+      "object_type": "file",
+      "parant_directory": ""
+    },
+    "csv_to_json.py": {
+      "object_size": 2184,
+      "object_type": "file",
+      "parant_directory": ""
+    },
+    "json_to_csv.py": {
+      "object_size": 1391,
+      "object_type": "file",
+      "parant_directory": ""
+    },
+    "create_file_json.py": {
+      "object_size": 2038,
+      "object_type": "file",
+      "parant_directory": ""
+    },
+    "directory_reference.py": {
+      "object_size": 3206,
+      "object_type": "file",
+      "parant_directory": ""
+    },
+    "__init__.py": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": ""
+    }
+  },
+  "/run/media/kostia/Data/_Repositories/04_DataEngineer/01_\u041f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435_\u0432_Python/Lesson_8/File_manager/__pycache__": {
+    "json_to_pickle.cpython-312.pyc": {
+      "object_size": 1604,
+      "object_type": "file",
+      "parant_directory": ""
+    },
+    "csv_to_json.cpython-312.pyc": {
+      "object_size": 3149,
+      "object_type": "file",
+      "parant_directory": ""
+    },
+    "json_to_csv.cpython-312.pyc": {
+      "object_size": 2314,
+      "object_type": "file",
+      "parant_directory": ""
+    },
+    "txt_to_json.cpython-312.pyc": {
+      "object_size": 1879,
+      "object_type": "file",
+      "parant_directory": ""
+    },
+    "pickle_to_csv.cpython-312.pyc": {
+      "object_size": 2183,
+      "object_type": "file",
+      "parant_directory": ""
+    },
+    "directory_reference.cpython-312.pyc": {
+      "object_size": 4610,
+      "object_type": "file",
+      "parant_directory": ""
+    },
+    "csv_to_pickle.cpython-312.pyc": {
+      "object_size": 1814,
+      "object_type": "file",
+      "parant_directory": ""
+    },
+    "create_file_json.cpython-312.pyc": {
+      "object_size": 2891,
+      "object_type": "file",
+      "parant_directory": ""
+    },
+    "__init__.cpython-312.pyc": {
+      "object_size": 207,
+      "object_type": "file",
+      "parant_directory": ""
+    },
+    "create_file_txt.cpython-312.pyc": {
+      "object_size": 1405,
+      "object_type": "file",
+      "parant_directory": ""
+    }
+  }
+}

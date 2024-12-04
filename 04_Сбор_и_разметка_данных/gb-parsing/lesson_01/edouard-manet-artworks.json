@@ -1,0 +1,458 @@
+{
+    "total_count": null,
+    "_links": {
+        "self": {
+            "href": "https://api.artsy.net/api/artworks?artist_id=4d8b927e4eb68a1b2c000168"
+        },
+        "next": {
+            "href": "https://api.artsy.net/api/artworks?artist_id=4d8b927e4eb68a1b2c000168&cursor=4fcf9efbdc286b000100171f%3A4fcf9efbdc286b000100171f"
+        }
+    },
+    "_embedded": {
+        "artworks": [
+            {
+                "id": "4d8b93b04eb68a1b2c001b9d",
+                "slug": "edouard-manet-luncheon-on-the-grass-le-dejeuner-sur-lherbe",
+                "created_at": "2010-12-20T19:48:55+00:00",
+                "updated_at": "2019-04-24T12:46:20+00:00",
+                "title": "Luncheon on the Grass (Le Déjeuner sur l'herbe)",
+                "category": "Painting",
+                "medium": "Oil on canvas",
+                "date": "1863",
+                "dimensions": {
+                    "in": {
+                        "text": "82 × 104 in",
+                        "height": 82.0,
+                        "width": 104.0,
+                        "depth": null,
+                        "diameter": null
+                    },
+                    "cm": {
+                        "text": "208.3 × 264.2 cm",
+                        "height": 208.3,
+                        "width": 264.2,
+                        "depth": null,
+                        "diameter": null
+                    }
+                },
+                "published": true,
+                "website": "",
+                "signature": "",
+                "series": null,
+                "provenance": "",
+                "literature": "",
+                "exhibition_history": "",
+                "collecting_institution": "Musée d'Orsay, Paris",
+                "additional_information": "[Image source](http://commons.wikimedia.org/wiki/File:Edouard_Manet_-_Luncheon_on_the_Grass_-_Google_Art_Project.jpg)",
+                "image_rights": "Source: Wikimedia Commons / Public Domain",
+                "blurb": "",
+                "unique": false,
+                "cultural_maker": null,
+                "iconicity": 241.3723577384994,
+                "can_inquire": false,
+                "can_acquire": false,
+                "can_share": true,
+                "sale_message": null,
+                "sold": false,
+                "image_versions": [
+                    "large",
+                    "large_rectangle",
+                    "larger",
+                    "medium_rectangle",
+                    "normalized",
+                    "small",
+                    "square",
+                    "tall",
+                    "medium"
+                ],
+                "_links": {
+                    "thumbnail": {
+                        "href": "https://d32dm0rphc51dk.cloudfront.net/zFA7cwdkWxbIrmuAAd21VA/medium.jpg"
+                    },
+                    "image": {
+                        "href": "https://d32dm0rphc51dk.cloudfront.net/zFA7cwdkWxbIrmuAAd21VA/{image_version}.jpg",
+                        "templated": true
+                    },
+                    "partner": {
+                        "href": "https://api.artsy.net/api/partners/5554bf037261697700010000"
+                    },
+                    "self": {
+                        "href": "https://api.artsy.net/api/artworks/4d8b93b04eb68a1b2c001b9d"
+                    },
+                    "permalink": {
+                        "href": "https://www.artsy.net/artwork/edouard-manet-luncheon-on-the-grass-le-dejeuner-sur-lherbe"
+                    },
+                    "genes": {
+                        "href": "https://api.artsy.net/api/genes?artwork_id=4d8b93b04eb68a1b2c001b9d"
+                    },
+                    "artists": {
+                        "href": "https://api.artsy.net/api/artists?artwork_id=4d8b93b04eb68a1b2c001b9d"
+                    },
+                    "similar_artworks": {
+                        "href": "https://api.artsy.net/api/artworks?similar_to_artwork_id=4d8b93b04eb68a1b2c001b9d"
+                    },
+                    "collection_users": {
+                        "href": "https://api.artsy.net/api/users?collected_artwork_id=4d8b93b04eb68a1b2c001b9d"
+                    }
+                },
+                "_embedded": {
+                    "editions": []
+                }
+            },
+            {
+                "id": "4eaf209c35118f000100dde6",
+                "slug": "edouard-manet-olympia",
+                "created_at": "2011-10-31T22:26:36+00:00",
+                "updated_at": "2019-04-24T12:49:00+00:00",
+                "title": "Olympia",
+                "category": "Painting",
+                "medium": "Oil on canvas",
+                "date": "1863",
+                "dimensions": {
+                    "in": {
+                        "text": "51 2/5 × 74 9/10 in",
+                        "height": 51.4,
+                        "width": 74.9,
+                        "depth": null,
+                        "diameter": null
+                    },
+                    "cm": {
+                        "text": "130.6 × 190.2 cm",
+                        "height": 130.6,
+                        "width": 190.2,
+                        "depth": null,
+                        "diameter": null
+                    }
+                },
+                "published": true,
+                "website": "",
+                "signature": "",
+                "series": null,
+                "provenance": "",
+                "literature": "",
+                "exhibition_history": "",
+                "collecting_institution": "Musée d'Orsay, Paris",
+                "additional_information": "",
+                "image_rights": "Source: Wikimedia Commons / Public Domain",
+                "blurb": "",
+                "unique": false,
+                "cultural_maker": null,
+                "iconicity": 210.56359946141686,
+                "can_inquire": false,
+                "can_acquire": false,
+                "can_share": true,
+                "sale_message": null,
+                "sold": false,
+                "image_versions": [
+                    "large_rectangle",
+                    "larger",
+                    "medium",
+                    "medium_rectangle",
+                    "normalized",
+                    "small",
+                    "square",
+                    "tall"
+                ],
+                "_links": {
+                    "thumbnail": {
+                        "href": "https://d32dm0rphc51dk.cloudfront.net/8OP240tfZuWHtSaPum_ePQ/medium.jpg"
+                    },
+                    "image": {
+                        "href": "https://d32dm0rphc51dk.cloudfront.net/8OP240tfZuWHtSaPum_ePQ/{image_version}.jpg",
+                        "templated": true
+                    },
+                    "partner": {
+                        "href": "https://api.artsy.net/api/partners/5554bf037261697700010000"
+                    },
+                    "self": {
+                        "href": "https://api.artsy.net/api/artworks/4eaf209c35118f000100dde6"
+                    },
+                    "permalink": {
+                        "href": "https://www.artsy.net/artwork/edouard-manet-olympia"
+                    },
+                    "genes": {
+                        "href": "https://api.artsy.net/api/genes?artwork_id=4eaf209c35118f000100dde6"
+                    },
+                    "artists": {
+                        "href": "https://api.artsy.net/api/artists?artwork_id=4eaf209c35118f000100dde6"
+                    },
+                    "similar_artworks": {
+                        "href": "https://api.artsy.net/api/artworks?similar_to_artwork_id=4eaf209c35118f000100dde6"
+                    },
+                    "collection_users": {
+                        "href": "https://api.artsy.net/api/users?collected_artwork_id=4eaf209c35118f000100dde6"
+                    }
+                },
+                "_embedded": {
+                    "editions": []
+                }
+            },
+            {
+                "id": "4f9b033de5b1830001000afa",
+                "slug": "edouard-manet-the-dead-toreador",
+                "created_at": "2012-04-27T20:36:13+00:00",
+                "updated_at": "2019-04-24T12:50:24+00:00",
+                "title": "The Dead Toreador",
+                "category": "Painting",
+                "medium": "Oil on canvas",
+                "date": "1864",
+                "dimensions": {
+                    "in": {
+                        "text": "29 9/10 × 60 2/5 in",
+                        "height": 29.9,
+                        "width": 60.4,
+                        "depth": null,
+                        "diameter": null
+                    },
+                    "cm": {
+                        "text": "75.9 × 153.3 cm",
+                        "height": 75.9,
+                        "width": 153.3,
+                        "depth": null,
+                        "diameter": null
+                    }
+                },
+                "published": true,
+                "website": "",
+                "signature": "",
+                "series": null,
+                "provenance": "Widener Collection\n1942.9.40\n",
+                "literature": "",
+                "exhibition_history": "     ",
+                "collecting_institution": "National Gallery of Art, Washington D.C.",
+                "additional_information": "Framed: 104.4 x 181.6 x 7.6 cm (41 1/8 x 71 1/2 x 3 in.)\n",
+                "image_rights": "Courtesy National Gallery of Art, Washington",
+                "blurb": "",
+                "unique": false,
+                "cultural_maker": null,
+                "iconicity": 62.73326658959355,
+                "can_inquire": false,
+                "can_acquire": false,
+                "can_share": true,
+                "sale_message": null,
+                "sold": false,
+                "image_versions": [
+                    "large",
+                    "large_rectangle",
+                    "larger",
+                    "medium",
+                    "medium_rectangle",
+                    "normalized",
+                    "small",
+                    "square",
+                    "tall"
+                ],
+                "_links": {
+                    "thumbnail": {
+                        "href": "https://d32dm0rphc51dk.cloudfront.net/9GIAyr3Mb0g_DO_TIJbv2Q/medium.jpg"
+                    },
+                    "image": {
+                        "href": "https://d32dm0rphc51dk.cloudfront.net/9GIAyr3Mb0g_DO_TIJbv2Q/{image_version}.jpg",
+                        "templated": true
+                    },
+                    "partner": {
+                        "href": "https://api.artsy.net/api/partners/4f99c7b793ab4b0001000179"
+                    },
+                    "self": {
+                        "href": "https://api.artsy.net/api/artworks/4f9b033de5b1830001000afa"
+                    },
+                    "permalink": {
+                        "href": "https://www.artsy.net/artwork/edouard-manet-the-dead-toreador"
+                    },
+                    "genes": {
+                        "href": "https://api.artsy.net/api/genes?artwork_id=4f9b033de5b1830001000afa"
+                    },
+                    "artists": {
+                        "href": "https://api.artsy.net/api/artists?artwork_id=4f9b033de5b1830001000afa"
+                    },
+                    "similar_artworks": {
+                        "href": "https://api.artsy.net/api/artworks?similar_to_artwork_id=4f9b033de5b1830001000afa"
+                    },
+                    "collection_users": {
+                        "href": "https://api.artsy.net/api/users?collected_artwork_id=4f9b033de5b1830001000afa"
+                    }
+                },
+                "_embedded": {
+                    "editions": []
+                }
+            },
+            {
+                "id": "4f9bcc207e5be8000100056f",
+                "slug": "edouard-manet-the-old-musician",
+                "created_at": "2012-04-28T10:53:20+00:00",
+                "updated_at": "2019-04-24T12:50:24+00:00",
+                "title": "The Old Musician",
+                "category": "Painting",
+                "medium": "Oil on canvas",
+                "date": "1862",
+                "dimensions": {
+                    "in": {
+                        "text": "73 4/5 × 97 7/10 in",
+                        "height": 73.8,
+                        "width": 97.7,
+                        "depth": null,
+                        "diameter": null
+                    },
+                    "cm": {
+                        "text": "187.4 × 248.2 cm",
+                        "height": 187.4,
+                        "width": 248.2,
+                        "depth": null,
+                        "diameter": null
+                    }
+                },
+                "published": true,
+                "website": "",
+                "signature": "",
+                "series": null,
+                "provenance": "Chester Dale Collection 1963.10.162\n",
+                "literature": "",
+                "exhibition_history": "     ",
+                "collecting_institution": "National Gallery of Art, Washington D.C.",
+                "additional_information": "Framed: 238.76 x 297.82 cm (94 x 117 1/4 in.) framed weight: 275 lb.\n",
+                "image_rights": "Courtesy National Gallery of Art, Washington",
+                "blurb": "",
+                "unique": false,
+                "cultural_maker": null,
+                "iconicity": 40.028758920724485,
+                "can_inquire": false,
+                "can_acquire": false,
+                "can_share": true,
+                "sale_message": null,
+                "sold": false,
+                "image_versions": [
+                    "large",
+                    "large_rectangle",
+                    "larger",
+                    "medium",
+                    "medium_rectangle",
+                    "normalized",
+                    "small",
+                    "square",
+                    "tall"
+                ],
+                "_links": {
+                    "thumbnail": {
+                        "href": "https://d32dm0rphc51dk.cloudfront.net/EjQV2AdIhklJcrf3rveFbA/medium.jpg"
+                    },
+                    "image": {
+                        "href": "https://d32dm0rphc51dk.cloudfront.net/EjQV2AdIhklJcrf3rveFbA/{image_version}.jpg",
+                        "templated": true
+                    },
+                    "partner": {
+                        "href": "https://api.artsy.net/api/partners/4f99c7b793ab4b0001000179"
+                    },
+                    "self": {
+                        "href": "https://api.artsy.net/api/artworks/4f9bcc207e5be8000100056f"
+                    },
+                    "permalink": {
+                        "href": "https://www.artsy.net/artwork/edouard-manet-the-old-musician"
+                    },
+                    "genes": {
+                        "href": "https://api.artsy.net/api/genes?artwork_id=4f9bcc207e5be8000100056f"
+                    },
+                    "artists": {
+                        "href": "https://api.artsy.net/api/artists?artwork_id=4f9bcc207e5be8000100056f"
+                    },
+                    "similar_artworks": {
+                        "href": "https://api.artsy.net/api/artworks?similar_to_artwork_id=4f9bcc207e5be8000100056f"
+                    },
+                    "collection_users": {
+                        "href": "https://api.artsy.net/api/users?collected_artwork_id=4f9bcc207e5be8000100056f"
+                    }
+                },
+                "_embedded": {
+                    "editions": []
+                }
+            },
+            {
+                "id": "4fcf9efbdc286b000100171f",
+                "slug": "edouard-manet-the-railway",
+                "created_at": "2012-06-06T18:18:35+00:00",
+                "updated_at": "2019-04-24T12:50:45+00:00",
+                "title": "The Railway",
+                "category": "Painting",
+                "medium": "Oil on canvas",
+                "date": "1873",
+                "dimensions": {
+                    "in": {
+                        "text": "36 7/10 × 43 9/10 in",
+                        "height": 36.7,
+                        "width": 43.9,
+                        "depth": null,
+                        "diameter": null
+                    },
+                    "cm": {
+                        "text": "93.3 × 111.5 cm",
+                        "height": 93.3,
+                        "width": 111.5,
+                        "depth": null,
+                        "diameter": null
+                    }
+                },
+                "published": true,
+                "website": "",
+                "signature": "",
+                "series": null,
+                "provenance": "Gift of Horace Havemeyer in memory of his mother, Louisine W. Havemeyer\n1956.10.1\n",
+                "literature": "",
+                "exhibition_history": "     ",
+                "collecting_institution": "National Gallery of Art, Washington D.C.",
+                "additional_information": "Framed: 113 x 132.7 x 5.4 cm (44 1/2 x 52 1/4 x 2 1/8 in.)\n",
+                "image_rights": "Courtesy National Gallery of Art, Washington",
+                "blurb": "",
+                "unique": false,
+                "cultural_maker": null,
+                "iconicity": 49.760844712727945,
+                "can_inquire": false,
+                "can_acquire": false,
+                "can_share": true,
+                "sale_message": null,
+                "sold": false,
+                "image_versions": [
+                    "large",
+                    "large_rectangle",
+                    "larger",
+                    "medium",
+                    "medium_rectangle",
+                    "normalized",
+                    "small",
+                    "square"
+                ],
+                "_links": {
+                    "thumbnail": {
+                        "href": "https://d32dm0rphc51dk.cloudfront.net/WPQRDYOJGQbu6-NtqU1_eQ/medium.jpg"
+                    },
+                    "image": {
+                        "href": "https://d32dm0rphc51dk.cloudfront.net/WPQRDYOJGQbu6-NtqU1_eQ/{image_version}.jpg",
+                        "templated": true
+                    },
+                    "partner": {
+                        "href": "https://api.artsy.net/api/partners/4f99c7b793ab4b0001000179"
+                    },
+                    "self": {
+                        "href": "https://api.artsy.net/api/artworks/4fcf9efbdc286b000100171f"
+                    },
+                    "permalink": {
+                        "href": "https://www.artsy.net/artwork/edouard-manet-the-railway"
+                    },
+                    "genes": {
+                        "href": "https://api.artsy.net/api/genes?artwork_id=4fcf9efbdc286b000100171f"
+                    },
+                    "artists": {
+                        "href": "https://api.artsy.net/api/artists?artwork_id=4fcf9efbdc286b000100171f"
+                    },
+                    "similar_artworks": {
+                        "href": "https://api.artsy.net/api/artworks?similar_to_artwork_id=4fcf9efbdc286b000100171f"
+                    },
+                    "collection_users": {
+                        "href": "https://api.artsy.net/api/users?collected_artwork_id=4fcf9efbdc286b000100171f"
+                    }
+                },
+                "_embedded": {
+                    "editions": []
+                }
+            }
+        ]
+    }
+}
