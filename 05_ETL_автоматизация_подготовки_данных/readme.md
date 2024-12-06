@@ -1,0 +1,2 @@
+Запускаем PostgreSQL в Docker:
+```
