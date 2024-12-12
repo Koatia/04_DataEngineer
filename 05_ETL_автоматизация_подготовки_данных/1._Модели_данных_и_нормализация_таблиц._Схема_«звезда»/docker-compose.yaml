@@ -1,0 +1,37 @@
+version: '3.9'
+services:
+  postgres-db:
+    image: postgres:latest
+    container_name: postgres-db
+    environment:
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: mydb
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+    networks:
+      - spark-postgres-network
+
+  spark:
+    image: bitnami/spark:latest
+    container_name: spark
+    environment:
+      - SPARK_MODE=master
+    ports:
+      - "7077:7077"
+      - "8080:8080"
+    volumes:
+      - /Users/kostia/Programs:/var/lib/mydir
+    networks:
+      - spark-postgres-network
+    depends_on:
+      - postgres-db
+
+volumes:
+  postgres-data:
+
+networks:
+  spark-postgres-network:
+    driver: bridge
