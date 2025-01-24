@@ -9,6 +9,26 @@ import org.apache.spark.sql.functions._
 import org.apache.spark.sql.expressions.Window
 import org.apache.spark.sql.functions.date_format
 
+// --------- Создаем базу данных "spark", если она не существует
+import java.sql.DriverManager
+
+// Устанавливаем соединение с MySQL
+val connection = DriverManager.getConnection("jdbc:mysql://mysql-db:3306/?user=root&password=root_password")
+val statement = connection.createStatement()
+// Проверяем, существует ли база данных "spark"
+val resultSet = statement.executeQuery("SELECT SCHEMA_NAME FROM information_schema.SCHEMATA WHERE SCHEMA_NAME = 'spark'")
+// Если база данных не существует, создаем ее
+if (!resultSet.next()) {
+  statement.executeUpdate("CREATE DATABASE spark")
+  println("База данных 'spark' создана.")
+} else {
+  println("База данных 'spark' уже существует.")
+}
+// Закрываем соединение
+statement.close()
+connection.close()
+
+
 val t1 = System.currentTimeMillis()
 if (1 == 1) {
   var df1 = spark.read.format("com.crealytics.spark.excel")
