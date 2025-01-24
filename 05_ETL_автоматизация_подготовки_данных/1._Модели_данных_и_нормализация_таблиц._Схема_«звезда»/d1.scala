@@ -3,6 +3,10 @@ chcp 65001 && \
 spark-shell --packages com.crealytics:spark-excel_2.12:3.5.1_0.20.4,org.postgresql:postgresql:42.6.0 -i /var/lib/mydir/d1.scala --conf "spark.driver.extraJavaOptions=-Dfile.encoding=utf-8"
 */
 
+/*
+Конфигурация докер "/Users/kostia/Programs:/var/lib/mydir:rw"
+*/
+
 //import org.apache.spark.internal.Logging
 //import org.apache.spark.sql.functions.{col, collect_list, concat_ws}
 //import org.apache.spark.sql.{DataFrame, SparkSession}
