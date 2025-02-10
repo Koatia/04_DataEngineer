@@ -1,0 +1,267 @@
+{\rtf1\ansi\ansicpg1251\cocoartf2821
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;\f1\fnil\fcharset0 Menlo-Bold;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red170\green171\blue37;\red86\green32\blue244;
+\red57\green192\blue38;\red56\green185\blue199;\red219\green39\blue218;\red116\green116\blue116;}
+{\*\expandedcolortbl;;\csgray\c0;\cssrgb\c72331\c71682\c18599;\cssrgb\c41681\c25958\c96648;
+\cssrgb\c25706\c77963\c19557;\cssrgb\c25546\c77007\c82023;\cssrgb\c89513\c29736\c88485;\csgenericrgb\c45371\c45371\c45371;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf2 \CocoaLigature0 Last login: Mon Feb 10 09:14:47 on ttys000\
+konstantin@MacBook-Air-Konstantin ~ % docker-compose up        \
+no configuration file provided: not found\
+konstantin@MacBook-Air-Konstantin ~ % cd /Users/konstantin/Programs/_Repository/00_Codes/26Docker/Apache_Airflow_mySQL \
+konstantin@MacBook-Air-Konstantin Apache_Airflow_mySQL % docker-compose up\
+\cf3 WARN\cf2 [0000] The "AIRFLOW_UID" variable is not set. Defaulting to a blank string. \
+\cf3 WARN\cf2 [0000] The "AIRFLOW_UID" variable is not set. Defaulting to a blank string. \
+\cf4 [+] Running 7/7\cf2 \
+ \cf5 \uc0\u10004 \cf2  Container apache_airflow_mysql-redis-1              \cf5 Created\cf2                                                      \cf4 0.0s \cf2 \
+ \cf5 \uc0\u10004 \cf2  Container apache_airflow_mysql-mysql-1              \cf5 Created\cf2                                                      \cf4 0.0s \cf2 \
+ \cf5 \uc0\u10004 \cf2  Container apache_airflow_mysql-airflow-worker-1     \cf5 Create...\cf2                                                    \cf4 0.0s \cf2 \
+ \cf5 \uc0\u10004 \cf2  Container apache_airflow_mysql-airflow-scheduler-1  \cf5 Cre...\cf2                                                       \cf4 0.0s \cf2 \
+ \cf5 \uc0\u10004 \cf2  Container apache_airflow_mysql-airflow-webserver-1  \cf5 Cre...\cf2                                                       \cf4 0.0s \cf2 \
+ \cf5 \uc0\u10004 \cf2  Container apache_airflow_mysql-airflow-triggerer-1  \cf5 Cre...\cf2                                                       \cf4 0.0s \cf2 \
+ \cf5 \uc0\u10004 \cf2  Container apache_airflow_mysql-airflow-init-1       \cf5 Recreate...\cf2                                                  \cf4 0.1s \cf2 \
+Attaching to airflow-init-1, airflow-scheduler-1, airflow-triggerer-1, airflow-webserver-1, airflow-worker-1, mysql-1, redis-1\
+
+\f1\b \cf6 mysql-1              | 
+\f0\b0 \cf2 2025-02-10 07:54:36+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.41-1.el9 started.\
+
+\f1\b \cf3 redis-1              | 
+\f0\b0 \cf2 1:C 10 Feb 2025 07:54:36.783 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo\
+
+\f1\b \cf3 redis-1              | 
+\f0\b0 \cf2 1:C 10 Feb 2025 07:54:36.783 * Redis version=7.2.7, bits=64, commit=00000000, modified=0, pid=1, just started\
+
+\f1\b \cf3 redis-1              | 
+\f0\b0 \cf2 1:C 10 Feb 2025 07:54:36.783 # Warning: no config file specified, using the default config. In order to specify a config file use redis-server /path/to/redis.conf\
+
+\f1\b \cf3 redis-1              | 
+\f0\b0 \cf2 1:M 10 Feb 2025 07:54:36.784 * monotonic clock: POSIX clock_gettime\
+
+\f1\b \cf3 redis-1              | 
+\f0\b0 \cf2 1:M 10 Feb 2025 07:54:36.784 * Running mode=standalone, port=6379.\
+
+\f1\b \cf3 redis-1              | 
+\f0\b0 \cf2 1:M 10 Feb 2025 07:54:36.784 * Server initialized\
+
+\f1\b \cf3 redis-1              | 
+\f0\b0 \cf2 1:M 10 Feb 2025 07:54:36.784 * Loading RDB produced by version 7.2.7\
+
+\f1\b \cf3 redis-1              | 
+\f0\b0 \cf2 1:M 10 Feb 2025 07:54:36.784 * RDB age 916 seconds\
+
+\f1\b \cf3 redis-1              | 
+\f0\b0 \cf2 1:M 10 Feb 2025 07:54:36.784 * RDB memory usage when created 1.31 Mb\
+
+\f1\b \cf3 redis-1              | 
+\f0\b0 \cf2 1:M 10 Feb 2025 07:54:36.784 * Done loading RDB, keys loaded: 1, keys expired: 0.\
+
+\f1\b \cf3 redis-1              | 
+\f0\b0 \cf2 1:M 10 Feb 2025 07:54:36.784 * DB loaded from disk: 0.000 seconds\
+
+\f1\b \cf3 redis-1              | 
+\f0\b0 \cf2 1:M 10 Feb 2025 07:54:36.784 * Ready to accept connections tcp\
+
+\f1\b \cf6 mysql-1              | 
+\f0\b0 \cf2 2025-02-10 07:54:36+00:00 [Note] [Entrypoint]: Switching to dedicated user 'mysql'\
+
+\f1\b \cf6 mysql-1              | 
+\f0\b0 \cf2 2025-02-10 07:54:36+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.41-1.el9 started.\
+
+\f1\b \cf6 mysql-1              | 
+\f0\b0 \cf2 '/var/lib/mysql/mysql.sock' -> '/var/run/mysqld/mysqld.sock'\
+
+\f1\b \cf6 mysql-1              | 
+\f0\b0 \cf2 2025-02-10T07:54:37.097056Z 0 [Warning] [MY-011068] [Server] The syntax '--skip-host-cache' is deprecated and will be removed in a future release. Please use SET GLOBAL host_cache_size=0 instead.\
+
+\f1\b \cf6 mysql-1              | 
+\f0\b0 \cf2 2025-02-10T07:54:37.097925Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.41) starting as process 1\
+
+\f1\b \cf6 mysql-1              | 
+\f0\b0 \cf2 2025-02-10T07:54:37.101019Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.\
+
+\f1\b \cf6 mysql-1              | 
+\f0\b0 \cf2 2025-02-10T07:54:37.210102Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.\
+
+\f1\b \cf6 mysql-1              | 
+\f0\b0 \cf2 2025-02-10T07:54:37.295605Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.\
+
+\f1\b \cf6 mysql-1              | 
+\f0\b0 \cf2 2025-02-10T07:54:37.295624Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.\
+
+\f1\b \cf6 mysql-1              | 
+\f0\b0 \cf2 2025-02-10T07:54:37.296766Z 0 [Warning] [MY-011810] [Server] Insecure configuration for --pid-file: Location '/var/run/mysqld' in the path is accessible to all OS users. Consider choosing a different directory.\
+
+\f1\b \cf6 mysql-1              | 
+\f0\b0 \cf2 2025-02-10T07:54:37.308874Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060, socket: /var/run/mysqld/mysqlx.sock\
+
+\f1\b \cf6 mysql-1              | 
+\f0\b0 \cf2 2025-02-10T07:54:37.308889Z 0 [System] [MY-010931] [Server] /usr/sbin/mysqld: ready for connections. Version: '8.0.41'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server - GPL.\
+\cf6 airflow-init-1       | \cf2 \
+\cf6 airflow-init-1       | 
+\f1\b \cf3 WARNING!!!: AIRFLOW_UID not set!
+\f0\b0 \cf2 \
+\cf6 airflow-init-1       | \cf2 If you are on Linux, you SHOULD follow the instructions below to set \
+\cf6 airflow-init-1       | \cf2 AIRFLOW_UID environment variable, otherwise files will be owned by root.\
+\cf6 airflow-init-1       | \cf2 For other operating systems you can get rid of the warning with manually created .env file:\
+\cf6 airflow-init-1       | \cf2     See: https://airflow.apache.org/docs/apache-airflow/stable/howto/docker-compose/index.html#setting-the-right-airflow-user\
+\cf6 airflow-init-1       | \cf2 \
+\cf6 airflow-init-1       | \cf2 \
+\cf6 airflow-init-1       | \cf2 DB: mysql+mysqlconnector://airflow:***@mysql/airflow\
+\cf6 airflow-init-1       | \cf2 Performing upgrade to the metadata database mysql+mysqlconnector://airflow:***@mysql/airflow\
+\cf6 airflow-init-1       | \cf2 [2025-02-10T07:54:47.100+0000] \{migration.py:207\} INFO - Context impl MySQLImpl.\
+\cf6 airflow-init-1       | \cf2 [2025-02-10T07:54:47.100+0000] \{migration.py:210\} INFO - Will assume non-transactional DDL.\
+\cf6 airflow-init-1       | \cf2 [2025-02-10T07:54:47.102+0000] \{migration.py:207\} INFO - Context impl MySQLImpl.\
+\cf6 airflow-init-1       | \cf2 [2025-02-10T07:54:47.102+0000] \{migration.py:210\} INFO - Will assume non-transactional DDL.\
+\cf6 airflow-init-1       | \cf2 [2025-02-10T07:54:47.103+0000] \{db.py:1675\} INFO - Creating tables\
+\cf6 airflow-init-1       | \cf2 INFO  [alembic.runtime.migration] Context impl MySQLImpl.\
+\cf6 airflow-init-1       | \cf2 INFO  [alembic.runtime.migration] Will assume non-transactional DDL.\
+\cf6 airflow-init-1       | \cf2 INFO  [alembic.runtime.migration] Context impl MySQLImpl.\
+\cf6 airflow-init-1       | \cf2 INFO  [alembic.runtime.migration] Will assume non-transactional DDL.\
+\cf6 airflow-init-1       | \cf2 Database migrating done!\
+\cf6 airflow-init-1       | \cf2 /home/airflow/.local/lib/python3.12/site-packages/flask_limiter/extension.py:333 UserWarning: Using the in-memory storage for tracking rate limits as no storage was explicitly specified. This is not recommended for production use. See: https://flask-limiter.readthedocs.io#configuring-a-storage-backend for documentation about configuring the storage backend.\
+\cf6 airflow-init-1       | \cf2 airflow already exist in the db\
+\cf6 airflow-init-1       | \cf2 \
+\cf6 airflow-init-1       | \cf2 !!!!!  Installing additional requirements: 'mysql-connector-python' !!!!!!!!!!!!\
+\cf6 airflow-init-1       | \cf2 \
+\cf6 airflow-init-1       | \cf2 WARNING: This is a development/test feature only. NEVER use it in production!\
+\cf6 airflow-init-1       | \cf2          Instead, build a custom image as described in\
+\cf6 airflow-init-1       | \cf2 \
+\cf6 airflow-init-1       | \cf2          https://airflow.apache.org/docs/docker-stack/build.html\
+\cf6 airflow-init-1       | \cf2 \
+\cf6 airflow-init-1       | \cf2          Adding requirements at container startup is fragile and is done every time\
+\cf6 airflow-init-1       | \cf2          the container starts, so it is only useful for testing and trying out\
+\cf6 airflow-init-1       | \cf2          of adding dependencies.\
+\cf6 airflow-init-1       | \cf2 \
+\cf6 airflow-init-1       | \cf2 Requirement already satisfied: mysql-connector-python in /home/airflow/.local/lib/python3.12/site-packages (9.1.0)\
+\cf6 airflow-init-1       | \cf2 \
+\cf6 airflow-init-1       | \cf2 [notice] A new release of pip is available: 24.3.1 -> 25.0.1\
+\cf6 airflow-init-1       | \cf2 [notice] To update, run: pip install --upgrade pip\
+\cf6 airflow-init-1       | \cf2 2.10.4\
+\cf6 airflow-init-1 exited with code 0\cf2 \
+\cf5 airflow-triggerer-1  | \cf2 \
+\cf4 airflow-worker-1     | \cf2 \
+\cf3 airflow-scheduler-1  | \cf2 \
+\cf7 airflow-webserver-1  | \cf2 \
+\cf5 airflow-triggerer-1  | \cf2   ____________       _____________\
+\cf5 airflow-triggerer-1  | \cf2  ____    |__( )_________  __/__  /________      __\
+\cf5 airflow-triggerer-1  | \cf2 ____  /| |_  /__  ___/_  /_ __  /_  __ \\_ | /| / /\
+\cf5 airflow-triggerer-1  | \cf2 ___  ___ |  / _  /   _  __/ _  / / /_/ /_ |/ |/ /\
+\cf5 airflow-triggerer-1  | \cf2  _/_/  |_/_/  /_/    /_/    /_/  \\____/____/|__/\
+\cf5 airflow-triggerer-1  | \cf2 [2025-02-10 07:54:55 +0000] [15] [INFO] Starting gunicorn 23.0.0\
+\cf5 airflow-triggerer-1  | \cf2 [2025-02-10 07:54:55 +0000] [15] [INFO] Listening at: http://[::]:8794 (15)\
+\cf5 airflow-triggerer-1  | \cf2 [2025-02-10 07:54:55 +0000] [15] [INFO] Using worker: sync\
+\cf5 airflow-triggerer-1  | \cf2 [2025-02-10 07:54:55 +0000] [16] [INFO] Booting worker with pid: 16\
+\cf5 airflow-triggerer-1  | \cf2 [2025-02-10 07:54:55 +0000] [17] [INFO] Booting worker with pid: 17\
+\cf5 airflow-triggerer-1  | \cf2 [2025-02-10T07:54:55.969+0000] \{triggerer_job_runner.py:181\} INFO - Setting up TriggererHandlerWrapper with handler <FileTaskHandler (NOTSET)>\
+\cf5 airflow-triggerer-1  | \cf2 [2025-02-10T07:54:55.969+0000] \{triggerer_job_runner.py:237\} INFO - Setting up logging queue listener with handlers [<RedirectStdHandler <stdout> (NOTSET)>, <TriggererHandlerWrapper (NOTSET)>]\
+\cf5 airflow-triggerer-1  | \cf2 [2025-02-10T07:54:55.976+0000] \{triggerer_job_runner.py:338\} INFO - Starting the triggerer\
+\cf7 airflow-webserver-1  | \cf2 /home/airflow/.local/lib/python3.12/site-packages/flask_limiter/extension.py:333 UserWarning: Using the in-memory storage for tracking rate limits as no storage was explicitly specified. This is not recommended for production use. See: https://flask-limiter.readthedocs.io#configuring-a-storage-backend for documentation about configuring the storage backend.\
+\cf4 airflow-worker-1     | \cf2 BACKEND=redis\
+\cf4 airflow-worker-1     | \cf2 DB_HOST=redis\
+\cf4 airflow-worker-1     | \cf2 DB_PORT=6379\
+\cf3 airflow-scheduler-1  | \cf2 BACKEND=redis\
+\cf3 airflow-scheduler-1  | \cf2 DB_HOST=redis\
+\cf3 airflow-scheduler-1  | \cf2 DB_PORT=6379\
+\cf4 airflow-worker-1     | \cf2 \
+\cf3 airflow-scheduler-1  | \cf2 \
+\cf7 airflow-webserver-1  | \cf2 [2025-02-10 07:54:57 +0000] [14] [INFO] Starting gunicorn 23.0.0\
+\cf7 airflow-webserver-1  | \cf2 [2025-02-10T07:54:58.720+0000] \{providers_manager.py:287\} INFO - Optional provider feature disabled when importing 'airflow.providers.google.leveldb.hooks.leveldb.LevelDBHook' from 'apache-airflow-providers-google' package\
+\cf4 airflow-worker-1     | \cf2 [2025-02-10 07:54:59 +0000] [31] [INFO] Starting gunicorn 23.0.0\
+\cf4 airflow-worker-1     | \cf2 [2025-02-10 07:54:59 +0000] [31] [INFO] Listening at: http://[::]:8793 (31)\
+\cf4 airflow-worker-1     | \cf2 [2025-02-10 07:54:59 +0000] [31] [INFO] Using worker: sync\
+\cf4 airflow-worker-1     | \cf2 [2025-02-10 07:54:59 +0000] [32] [INFO] Booting worker with pid: 32\
+\cf4 airflow-worker-1     | \cf2 [2025-02-10 07:54:59 +0000] [33] [INFO] Booting worker with pid: 33\
+\cf7 airflow-webserver-1  | \cf2 [2025-02-10 07:54:59 +0000] [14] [INFO] Listening at: http://0.0.0.0:8080 (14)\
+\cf7 airflow-webserver-1  | \cf2 [2025-02-10 07:54:59 +0000] [14] [INFO] Using worker: sync\
+\cf7 airflow-webserver-1  | \cf2 [2025-02-10 07:54:59 +0000] [35] [INFO] Booting worker with pid: 35\
+\cf7 airflow-webserver-1  | \cf2 [2025-02-10 07:54:59 +0000] [36] [INFO] Booting worker with pid: 36\
+\cf4 airflow-worker-1     | \cf2  \
+\cf4 airflow-worker-1     | \cf2  -------------- celery@cac18e857c23 v5.4.0 (opalescent)\
+\cf4 airflow-worker-1     | \cf2 --- ***** ----- \
+\cf4 airflow-worker-1     | \cf2 -- ******* ---- Linux-6.12.5-linuxkit-aarch64-with-glibc2.36 2025-02-10 07:54:59\
+\cf4 airflow-worker-1     | \cf2 - *** --- * --- \
+\cf4 airflow-worker-1     | \cf2 - ** ---------- [config]\
+\cf4 airflow-worker-1     | \cf2 - ** ---------- .> app:         airflow.providers.celery.executors.celery_executor:0xffffa6c93800\
+\cf4 airflow-worker-1     | \cf2 - ** ---------- .> transport:   redis://redis:6379/0\
+\cf4 airflow-worker-1     | \cf2 - ** ---------- .> results:     mysql://airflow:**@mysql/airflow\
+\cf4 airflow-worker-1     | \cf2 - *** --- * --- .> concurrency: 16 (prefork)\
+\cf4 airflow-worker-1     | \cf2 -- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)\
+\cf4 airflow-worker-1     | \cf2 --- ***** ----- \
+\cf4 airflow-worker-1     | \cf2  -------------- [queues]\
+\cf4 airflow-worker-1     | \cf2                 .> default          exchange=default(direct) key=default\
+\cf4 airflow-worker-1     | \cf2                 \
+\cf4 airflow-worker-1     | \cf2 \
+\cf4 airflow-worker-1     | \cf2 [tasks]\
+\cf4 airflow-worker-1     | \cf2   . airflow.providers.celery.executors.celery_executor_utils.execute_command\
+\cf4 airflow-worker-1     | \cf2 \
+\cf3 airflow-scheduler-1  | \cf2   ____________       _____________\
+\cf3 airflow-scheduler-1  | \cf2  ____    |__( )_________  __/__  /________      __\
+\cf3 airflow-scheduler-1  | \cf2 ____  /| |_  /__  ___/_  /_ __  /_  __ \\_ | /| / /\
+\cf3 airflow-scheduler-1  | \cf2 ___  ___ |  / _  /   _  __/ _  / / /_/ /_ |/ |/ /\
+\cf3 airflow-scheduler-1  | \cf2  _/_/  |_/_/  /_/    /_/    /_/  \\____/____/|__/\
+\cf3 airflow-scheduler-1  | \cf2 [2025-02-10T07:54:59.361+0000] \{_client.py:1026\} INFO - HTTP Request: GET https://apacheairflow.gateway.scarf.sh/scheduler?version=2.10.4&python_version=3.12&platform=Linux&arch=aarch64&database=mysql&db_version=8.0&executor=CeleryExecutor "HTTP/1.1 200 OK"\
+\cf7 airflow-webserver-1  | \cf2 [2025-02-10 07:54:59 +0000] [37] [INFO] Booting worker with pid: 37\
+\cf7 airflow-webserver-1  | \cf2 [2025-02-10 07:54:59 +0000] [38] [INFO] Booting worker with pid: 38\
+\cf3 airflow-scheduler-1  | \cf2 [2025-02-10T07:54:59.787+0000] \{executor_loader.py:254\} INFO - Loaded executor: CeleryExecutor\
+\cf3 airflow-scheduler-1  | \cf2 [2025-02-10T07:54:59.803+0000] \{scheduler_job_runner.py:950\} INFO - Starting the scheduler\
+\cf3 airflow-scheduler-1  | \cf2 [2025-02-10T07:54:59.804+0000] \{scheduler_job_runner.py:957\} INFO - Processing each file at most -1 times\
+\cf3 airflow-scheduler-1  | \cf2 [2025-02-10T07:54:59.806+0000] \{manager.py:174\} INFO - Launched DagFileProcessorManager with pid: 38\
+\cf3 airflow-scheduler-1  | \cf2 [2025-02-10T07:54:59.807+0000] \{scheduler_job_runner.py:1949\} INFO - Adopting or resetting orphaned tasks for active dag runs\
+\cf3 airflow-scheduler-1  | \cf2 [2025-02-10T07:54:59.809+0000] \{settings.py:63\} INFO - Configured default timezone UTC\
+\cf4 airflow-worker-1     | \cf2 [2025-02-10 07:55:00,897: WARNING/MainProcess] /home/airflow/.local/lib/python3.12/site-packages/celery/worker/consumer/consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine\
+\cf4 airflow-worker-1     | \cf2 whether broker connection retries are made during startup in Celery 6.0 and above.\
+\cf4 airflow-worker-1     | \cf2 If you wish to retain the existing behavior for retrying connections on startup,\
+\cf4 airflow-worker-1     | \cf2 you should set broker_connection_retry_on_startup to True.\
+\cf4 airflow-worker-1     | \cf2   warnings.warn(\
+\cf4 airflow-worker-1     | \cf2 \
+\cf4 airflow-worker-1     | \cf2 [2025-02-10 07:55:00,902: INFO/MainProcess] Connected to redis://redis:6379/0\
+\cf4 airflow-worker-1     | \cf2 [2025-02-10 07:55:00,903: WARNING/MainProcess] /home/airflow/.local/lib/python3.12/site-packages/celery/worker/consumer/consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine\
+\cf4 airflow-worker-1     | \cf2 whether broker connection retries are made during startup in Celery 6.0 and above.\
+\cf4 airflow-worker-1     | \cf2 If you wish to retain the existing behavior for retrying connections on startup,\
+\cf4 airflow-worker-1     | \cf2 you should set broker_connection_retry_on_startup to True.\
+\cf4 airflow-worker-1     | \cf2   warnings.warn(\
+\cf4 airflow-worker-1     | \cf2 \
+\cf4 airflow-worker-1     | \cf2 [2025-02-10 07:55:00,905: INFO/MainProcess] mingle: searching for neighbors\
+\cf4 airflow-worker-1     | \cf2 [2025-02-10 07:55:01,911: INFO/MainProcess] mingle: all alone\
+\cf4 airflow-worker-1     | \cf2 [2025-02-10 07:55:01,915: INFO/MainProcess] celery@cac18e857c23 ready.\
+\cf3 airflow-scheduler-1  | \cf2 127.0.0.1 - - [10/Feb/2025 07:55:02] "GET /health HTTP/1.1" 200 -\
+\cf7 airflow-webserver-1  | \cf2 127.0.0.1 - - [10/Feb/2025:07:55:02 +0000] "GET /health HTTP/1.1" 200 318 "-" "curl/7.88.1"\
+\cf3 airflow-scheduler-1  | \cf2 127.0.0.1 - - [10/Feb/2025 07:55:32] "GET /health HTTP/1.1" 200 -\
+\cf7 airflow-webserver-1  | \cf2 127.0.0.1 - - [10/Feb/2025:07:55:32 +0000] "GET /health HTTP/1.1" 200 318 "-" "curl/7.88.1"\
+\cf5 airflow-triggerer-1  | \cf2 [2025-02-10T07:55:56.157+0000] \{triggerer_job_runner.py:510\} INFO - 0 triggers currently running\
+\cf3 airflow-scheduler-1  | \cf2 127.0.0.1 - - [10/Feb/2025 07:56:02] "GET /health HTTP/1.1" 200 -\
+\cf7 airflow-webserver-1  | \cf2 127.0.0.1 - - [10/Feb/2025:07:56:02 +0000] "GET /health HTTP/1.1" 200 318 "-" "curl/7.88.1"\
+\cf3 airflow-scheduler-1  | \cf2 127.0.0.1 - - [10/Feb/2025 07:56:32] "GET /health HTTP/1.1" 200 -\
+\cf7 airflow-webserver-1  | \cf2 127.0.0.1 - - [10/Feb/2025:07:56:32 +0000] "GET /health HTTP/1.1" 200 318 "-" "curl/7.88.1"\
+\cf5 airflow-triggerer-1  | \cf2 [2025-02-10T07:56:56.344+0000] \{triggerer_job_runner.py:510\} INFO - 0 triggers currently running\
+\cf7 airflow-webserver-1  | \cf2 192.168.65.1 - - [10/Feb/2025:07:56:59 +0000] "GET / HTTP/1.1" 302 197 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"\
+\cf7 airflow-webserver-1  | \cf2 /home/airflow/.local/lib/python3.12/site-packages/airflow/www/views.py:859 SADeprecationWarning: DISTINCT ON is currently supported only by the PostgreSQL dialect.  Use of DISTINCT ON for other backends is currently silently ignored, however this usage is deprecated, and will raise CompileError in a future release for all backends that do not support this syntax.\
+\cf7 airflow-webserver-1  | \cf2 /home/airflow/.local/lib/python3.12/site-packages/airflow/www/views.py:913 SADeprecationWarning: DISTINCT ON is currently supported only by the PostgreSQL dialect.  Use of DISTINCT ON for other backends is currently silently ignored, however this usage is deprecated, and will raise CompileError in a future release for all backends that do not support this syntax.\
+\cf7 airflow-webserver-1  | \cf2 /home/airflow/.local/lib/python3.12/site-packages/airflow/www/security_manager.py:257 AirflowProviderDeprecationWarning: is_authorized_dataset will be renamed as is_authorized_asset in Airflow 3 and will be removed when the minimum Airflow version is set to 3.0 for the fab provider\
+\cf7 airflow-webserver-1  | \cf2 192.168.65.1 - - [10/Feb/2025:07:56:59 +0000] "GET /home HTTP/1.1" 200 588720 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"\
+\cf7 airflow-webserver-1  | \cf2 192.168.65.1 - - [10/Feb/2025:07:56:59 +0000] "POST /blocked HTTP/1.1" 200 2 "http://localhost:8080/home" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"\
+\cf7 airflow-webserver-1  | \cf2 192.168.65.1 - - [10/Feb/2025:07:56:59 +0000] "POST /task_stats HTTP/1.1" 200 39457 "http://localhost:8080/home" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"\
+\cf7 airflow-webserver-1  | \cf2 192.168.65.1 - - [10/Feb/2025:07:56:59 +0000] "POST /dag_stats HTTP/1.1" 200 12447 "http://localhost:8080/home" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"\
+\cf7 airflow-webserver-1  | \cf2 192.168.65.1 - - [10/Feb/2025:07:56:59 +0000] "POST /last_dagruns HTTP/1.1" 200 2 "http://localhost:8080/home" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"\
+\cf7 airflow-webserver-1  | \cf2 /home/airflow/.local/lib/python3.12/site-packages/airflow/www/auth.py:291 AirflowProviderDeprecationWarning: is_authorized_dataset will be renamed as is_authorized_asset in Airflow 3 and will be removed when the minimum Airflow version is set to 3.0 for the fab provider\
+\cf7 airflow-webserver-1  | \cf2 192.168.65.1 - - [10/Feb/2025:07:57:00 +0000] "GET /object/next_run_datasets/consume_1_or_both_2_and_3_with_dataset_expressions HTTP/1.1" 200 303 "http://localhost:8080/home" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"\
+\cf7 airflow-webserver-1  | \cf2 /home/airflow/.local/lib/python3.12/site-packages/airflow/www/auth.py:291 AirflowProviderDeprecationWarning: is_authorized_dataset will be renamed as is_authorized_asset in Airflow 3 and will be removed when the minimum Airflow version is set to 3.0 for the fab provider\
+\cf7 airflow-webserver-1  | \cf2 192.168.65.1 - - [10/Feb/2025:07:57:01 +0000] "GET /object/next_run_datasets/consume_1_and_2_with_dataset_expressions HTTP/1.1" 200 209 "http://localhost:8080/home" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"\
+\cf3 airflow-scheduler-1  | \cf2 127.0.0.1 - - [10/Feb/2025 07:57:02] "GET /health HTTP/1.1" 200 -\
+\cf7 airflow-webserver-1  | \cf2 127.0.0.1 - - [10/Feb/2025:07:57:02 +0000] "GET /health HTTP/1.1" 200 318 "-" "curl/7.88.1"\
+\cf3 airflow-scheduler-1  | \cf2 127.0.0.1 - - [10/Feb/2025 07:57:32] "GET /health HTTP/1.1" 200 -\
+\cf7 airflow-webserver-1  | \cf2 127.0.0.1 - - [10/Feb/2025:07:57:33 +0000] "GET /health HTTP/1.1" 200 318 "-" "curl/7.88.1"\
+\cf5 airflow-triggerer-1  | \cf2 [2025-02-10T07:57:56.513+0000] \{triggerer_job_runner.py:510\} INFO - 0 triggers currently running\
+\cf3 airflow-scheduler-1  | \cf2 127.0.0.1 - - [10/Feb/2025 07:58:03] "GET /health HTTP/1.1" 200 -\
+\cf7 airflow-webserver-1  | \cf2 127.0.0.1 - - [10/Feb/2025:07:58:03 +0000] "GET /health HTTP/1.1" 200 318 "-" "curl/7.88.1"\
+\cf3 airflow-scheduler-1  | \cf2 127.0.0.1 - - [10/Feb/2025 07:58:33] "GET /health HTTP/1.1" 200 -\
+\cf7 airflow-webserver-1  | \cf2 127.0.0.1 - - [10/Feb/2025:07:58:33 +0000] "GET /health HTTP/1.1" 200 318 "-" "curl/7.88.1"\
+\cf5 airflow-triggerer-1  | \cf2 [2025-02-10T07:58:56.668+0000] \{triggerer_job_runner.py:510\} INFO - 0 triggers currently running\
+\cf3 airflow-scheduler-1  | \cf2 127.0.0.1 - - [10/Feb/2025 07:59:03] "GET /health HTTP/1.1" 200 -\
+\cf7 airflow-webserver-1  | \cf2 127.0.0.1 - - [10/Feb/2025:07:59:03 +0000] "GET /health HTTP/1.1" 200 318 "-" "curl/7.88.1"\
+\
+\
+\cf8 v View in Docker Desktop   o View Config   w Enable Watch\cf2 \
+}
