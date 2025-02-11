@@ -3,16 +3,16 @@ from airflow.operators.bash import BashOperator
 from datetime import datetime, timedelta
 import pendulum
 default_args = {
-'owner': 'AGanshin',
+'owner': 'Kostia',
 'depends_on_past': False,
-'start_date': pendulum.datetime(year=2022, month=6, day=1).in_timezone('Europe/Moscow'),
+'start_date': pendulum.datetime(year=2024, month=6, day=1).in_timezone('Europe/Moscow'),
 'email': ['alex@alex.ru'],
 'email_on_failure': False,
 'email_on_retry': False,
 'retries': 0,
 'retry_delay': timedelta(minutes=5)
 }
-dag1 = DAG('AGanshin001',
+dag1 = DAG('Kostia001',
 default_args=default_args,
 description="seminar_6",
 catchup=False,
