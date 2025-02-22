@@ -1,0 +1,117 @@
+services:
+  mysql-db:
+    image: mysql:8.0
+    container_name: mysql-db
+    environment:
+      MYSQL_ROOT_PASSWORD: airflow
+      MYSQL_DATABASE: airflow
+      MYSQL_USER: airflow
+      MYSQL_PASSWORD: airflow
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql-data:/var/lib/mysql
+      - ./mysql-init:/docker-entrypoint-initdb.d  # Подключаем SQL-скрипты
+
+    networks:
+      - mysql-network
+    restart: always
+
+  airflow-init:
+    image: apache/airflow:latest
+    container_name: airflow-init
+    entrypoint: /bin/bash
+    command:
+      - -c
+      - |
+        echo "Waiting for MySQL to be ready..."
+        while ! nc -z mysql-db 3306; do   
+          sleep 1
+        done
+        echo "MySQL is up!"
+        
+        echo "Initializing Airflow DB..."
+        airflow db init
+
+        echo "Creating Airflow admin user..."
+        airflow users create \
+          --username ${_AIRFLOW_WWW_USER_USERNAME:-airflow} \
+          --password ${_AIRFLOW_WWW_USER_PASSWORD:-airflow} \
+          --firstname Admin \
+          --lastname User \
+          --role Admin \
+          --email admin@example.com
+
+        echo "Creating Spark database and granting privileges..."
+        mysql -h mysql-db -u root -pairflow -e "
+          CREATE DATABASE IF NOT EXISTS spark;
+          GRANT ALL PRIVILEGES ON spark.* TO 'airflow'@'%';
+          GRANT ALL PRIVILEGES ON airflow.* TO 'airflow'@'%';
+          FLUSH PRIVILEGES;
+        "
+        
+        echo "Initialization complete."
+    environment:
+      - AIRFLOW__DATABASE__SQL_ALCHEMY_CONN=mysql://airflow:airflow@mysql-db:3306/airflow
+      - _AIRFLOW_DB_MIGRATE=true
+      - _AIRFLOW_WWW_USER_CREATE=true
+      - _AIRFLOW_WWW_USER_USERNAME=airflow
+      - _AIRFLOW_WWW_USER_PASSWORD=airflow
+      - _PIP_ADDITIONAL_REQUIREMENTS="mysql-connector-python apache-airflow-providers-apache-spark pyspark"
+    volumes:
+      - ./airflow/dags:/opt/airflow/dags
+      - ./airflow/logs:/opt/airflow/logs
+      - ./airflow/plugins:/opt/airflow/plugins
+    networks:
+      - mysql-network
+    depends_on:
+      - mysql-db
+
+  airflow-scheduler:
+    image: apache/airflow:latest
+    container_name: airflow-scheduler
+    environment:
+      - AIRFLOW__DATABASE__SQL_ALCHEMY_CONN=mysql://airflow:airflow@mysql-db:3306/airflow
+      - AIRFLOW__CORE__EXECUTOR=LocalExecutor
+      - AIRFLOW__CORE__LOAD_EXAMPLES=False
+    command: [ "scheduler" ]
+    volumes:
+      - ./airflow/dags:/opt/airflow/dags
+      - ./airflow/logs:/opt/airflow/logs
+      - ./airflow/plugins:/opt/airflow/plugins
+      - /var/run/docker.sock:/var/run/docker.sock
+    networks:
+      - mysql-network
+    depends_on:
+      - mysql-db
+      - airflow-init
+    restart: always
+
+  airflow-webserver:
+    image: apache/airflow:latest
+    container_name: airflow-webserver
+    environment:
+      - AIRFLOW__DATABASE__SQL_ALCHEMY_CONN=mysql://airflow:airflow@mysql-db:3306/airflow
+      - AIRFLOW__CORE__EXECUTOR=LocalExecutor
+      - AIRFLOW__CORE__LOAD_EXAMPLES=False
+    ports:
+      - "8081:8080"
+    command: [ "webserver" ]
+    volumes:
+      - ./airflow/dags:/opt/airflow/dags
+      - ./airflow/logs:/opt/airflow/logs
+      - ./airflow/plugins:/opt/airflow/plugins
+      - /var/run/docker.sock:/var/run/docker.sock
+    networks:
+      - mysql-network
+    depends_on:
+      - mysql-db
+      - airflow-scheduler
+    restart: always
+
+volumes:
+  mysql-data:
+
+networks:
+  mysql-network:
+    driver: bridge
