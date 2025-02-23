@@ -16,6 +16,7 @@ from airflow.operators.bash import BashOperator
 os.environ["no_proxy"] = "*"
 
 YANDEX_API_KEY = '33f45b91-bcd4-46e4-adc2-33cfdbbdd88e'
+YANDEX_API_KEY = '823fe921-7f2c-44df-ab09-690cb318d083'
 OPENWEATHER_API_KEY = '2cd78e55c423fc81cebc1487134a6300'
 TELEGRAM_TOKEN = '7248934509:AAE4KtbM5wDjmrU-xFH8bMAwBwDZw-C_cMA'
 CHAT_ID = '783160683'
@@ -109,7 +110,6 @@ def weather_etl():
         df.to_sql("weather", con=con, if_exists="append", index=False)
 
     # from airflow.providers.telegram.operators.telegram import TelegramOperator
-    #
     # send_message_telegram_task = TelegramOperator(
     #     task_id="send_message_telegram",
     #     telegram_conn_id="telegram_conn",
@@ -117,8 +117,8 @@ def weather_etl():
     #     chat_id=CHAT_ID,
     #     text="""
     #         Weather in Moscow:
-    #         Yandex: {{ ti.xcom_pull(task_ids='yandex_weather', key='weather') }} degrees
-    #         OpenWeather: {{ ti.xcom_pull(task_ids='open_weather', key='open_weather') }} degrees
+    #         Yandex: {{ ti.xcom_pull(task_ids='yandex_weather', key='weather')[0]}} degrees
+    #         OpenWeather: {{ ti.xcom_pull(task_ids='open_weather', key='open_weather')[0]}} degrees
     #     """,
     # )
 
